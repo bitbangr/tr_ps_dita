@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="compare_preps_using_overlay_features">
+    <title>Compare Preps Using Overlay Features</title>
+    <body>
+        <p></p>
+        <p>This is an image <fig id="fig_chj_fdq_sdc">
+                <title>Tooth Prep</title>
+                <image href="../images/screenshots/Prepscan_1_2024-11-18-Screenshot.png"
+                    id="image_dhj_fdq_sdc">
+                    <alt>Tooth Prep Image</alt>
+                </image>
+            </fig></p>
+        <p>This is a scanned tooth.</p>
+    </body>
+</topic>

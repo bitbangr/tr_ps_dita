@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_logging_in">
+    <title>Task: Logging In</title>
+    <taskbody>
+        <prereq>
+            <p>You must register for an account before you can log in. See the registration instructions.</p>
+        </prereq>
+        <context>
+            <p>This task describes how to log in to the PrepScanner App.</p>
+        </context>
+        <steps>
+            <step>
+                <cmd>Start the PrepScanner App.</cmd>
+            </step>
+            <step>
+                <cmd>Enter your email address and password.</cmd>
+            </step>
+        </steps>
+        <result>
+            <p>You will be logged in to the PrepScanner App and can begin using its features.</p>
+        </result>
+    </taskbody>
+</task>

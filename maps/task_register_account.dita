@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="registeraccount">
+    <title>Task: Register New Account</title>
+    <shortdesc>Register your  account. </shortdesc>
+    <taskbody>
+        <context><note id="note_wbg_c1p_b2c"> Get your University Code before you
+            register.</note>Register your new account before using the PrepScanner app.
+            <p/></context>
+        <steps>
+            <step>
+                <cmd>Click Register from the PrepScanner app startup screen.<image placement="break"
+                        href="../images/screenshots/account/app_startup_login_register.png"
+                        id="image_hnx_rbz_12c"/></cmd>
+            </step>
+            <step>
+                <cmd>Fill in the required registratation details such as your first and last name,
+                    email address, role and password. If you have an access code enter it, otherwise
+                    click Request to receive one by email. </cmd>
+                <info>
+                    <fig id="fig_cn1_xbz_12c">
+                        <title>Registration Details Page</title>
+                        <image placement="break"
+                            href="../images/screenshots/account/account_registration_annotated.png"
+                            id="image_dn1_xbz_12c">
+                            <alt>Registration Details Page</alt>
+                        </image>
+                    </fig>
+                </info>
+            </step>
+           <!-- <stepsection>There are two possible actions to take here!</stepsection> -->
+            <step>
+                <note id="note_ztz_mqp_b2c">If you don't have an access code, then click Request to
+                    have one emailed to the email address in this form. </note>
+                <cmd></cmd>
+            </step>
+            <step>
+                <cmd>Click Register when you have filled in all the required fields</cmd>
+            </step>
+        </steps>
+        <result>
+            <ul id="ul_s4h_snp_b2c">
+                <li>Your account should be successfully registered and you will see the main app
+                    screen.</li>
+            </ul>
+        </result>
+    </taskbody>
+</task>

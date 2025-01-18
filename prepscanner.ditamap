@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map>
+    <title>PrepScanner™ Instructor Guide</title>
+    <topicref href="maps/getting_started.dita">
+        <topicref href="maps/concept_what_is_the_prepscanner_dental_grading_app.dita"
+            processing-role="resource-only"/>
+        <topicref href="maps/your_account.dita">
+            <topicref href="maps/task_logging_in_old.dita"/>
+            <topicref href="maps/task_register_account.dita"/>
+            <topicref href="maps/task_resetting_your_password.dita"/>
+            <topicref href="maps/reference_account_settings.dita"/>
+        </topicref>
+        <topicref href="maps/app_overview.dita">
+            <topicref href="maps/concept_main_dashboard.dita"/>
+            <topicref href="maps/reference_key_sections.dita">
+                <topicref href="maps/dashboard_overview_of_tasks_and_notifications.dita"/>
+                <topicref href="maps/grading_panel_tools_for_cavity_prep_grading.dita"/>
+                <topicref href="maps/collaboration_team_workflows_and_assignments.dita"/>
+                <topicref href="maps/settings_preferences_and_notifications.dita"/>
+            </topicref>
+        </topicref>
+        <topicref href="maps/navigation.dita">
+            <topicref href="maps/task_switching_sections.dita"/>
+            <topicref href="maps/reference_common_icons.dita"/>
+            <topicref href="maps/reference_glossary.dita"/>
+        </topicref>
+        <topicref href="maps/help.dita">
+            <topicref href="maps/task_finding_tutorials.dita"/>
+            <topicref href="maps/reference_contacting_support.dita"/>
+        </topicref>
+    </topicref>
+    <topicref href="maps/grade_student_submissions.dita">
+        <topicref href="maps/master_the_use_of_measurement_tools.dita">
+            <topicref href="topics/tasks/task_measuring_cavity_prep_dimensions.dita"/>
+            <topicref href="topics/references/reference_standardized_measurement_techniques.dita"/>
+            <topicref href="topics/references/reference_measurement_thresholds_for_cavity_prep.dita"/>
+            <topicref href="topics/concepts/concept_why_are_accurate_measurements_important_in_cavity_prep.dita"/>
+        </topicref>
+        <topicref href="maps/use_ai_tools_to_enhance_accuracy.dita">
+            <topicref href="topics/tasks/task_activating_and_disabling_ai_tools.dita"/>
+            <topicref href="topics/tasks/task_using_the_ai_overlay_for_comparison.dita"/>
+            <topicref href="topics/references/reference_features_of_ai_tools_in_the_dental_grading_app.dita"/>
+            <topicref href="topics/concepts/concept_understanding_ai_generated_anatomical_borders.dita"/>
+        </topicref>
+        <topicref href="maps/compare_preps_using_overlay_features.dita">
+            <topicref href="topics/tasks/task_viewing_and_comparing_cavity_prep_models.dita"/>
+            <topicref href="topics/references/reference_common_errors_in_cavity_prep.dita"/>
+        </topicref>
+    </topicref>
+    <topicref href="maps/configure_grading_rubrics.dita">
+        <topicref href="maps/set_up_and_adjust_rubrics.dita">
+            <topicref href="topics/tasks/task_configuring_the_cavity_prep_rubric.dita"/>
+            <topicref href="topics/references/reference_template_for_the_cavity_prep_rubric.dita"/>
+            <topicref href="topics/references/reference_evaluation_criteria_for_cavity_prep.dita"/>
+        </topicref>
+        <topicref href="maps/manage_grading_rubric_updates.dita">
+            <topicref href="topics/tasks/task_regrading_submissions_after_rubric_updates.dita"/>
+            <topicref href="topics/tasks/task_managing_grading_rubric_updates.dita"/>
+        </topicref>
+    </topicref>
+    <topicref href="maps/provide_student_feedback.dita">
+        <topicref href="maps/generate_and_interpret_grading_reports.dita">
+            <topicref href="topics/tasks/task_generating_grading_reports.dita"/>
+            <topicref href="topics/references/reference_template_for_the_cavity_prep_grading_report.dita"/>
+        </topicref>
+        <topicref href="maps/compile_and_communicate_feedback.dita">
+            <topicref href="topics/tasks/task_providing_feedback_to_students.dita"/>
+        </topicref>
+    </topicref>
+    <topicref href="maps/ensure_accurate_grading.dita">
+        <topicref href="maps/understand_the_app_interface.dita">
+            <topicref href="topics/tasks/task_navigating_the_dental_grading_app_interface.dita"/>
+            <topicref href="topics/references/reference_user_interface_elements_of_the_dental_grading_app.dita"/>
+            <topicref href="topics/references/reference_glossary_of_terms_for_cavity_prep.dita"/>
+            <topicref href="topics/concepts/concept_what_is_the_dental_grading_app.dita"/>
+        </topicref>
+        <topicref href="maps/implement_collaborative_workflows.dita">
+            <topicref href="topics/tasks/task_assigning_roles_in_collaborative_grading.dita"/>
+            <topicref href="topics/references/reference_collaborative_grading_workflow_overview.dita"/>
+            <topicref href="topics/references/reference_guidelines_for_collaborative_grading.dita"/>
+        </topicref>
+    </topicref>
+    <topicref href="maps/collaborate_with_faculty.dita">
+        <topicref href="maps/understand_collaborative_features.dita">
+            <topicref href="topics/concepts/concept_what_is_collaborative_grading.dita"/>
+            <topicref href="topics/concepts/concept_why_is_consistency_important_in_grading.dita"/>
+        </topicref>
+        <topicref href="maps/divide_grading_responsibilities.dita">
+            <topicref href="topics/tasks/task_dividing_grading_responsibilities.dita"/>
+        </topicref>
+    </topicref>
+</map>

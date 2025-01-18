@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="effectively_grade_student_submissions">
+    <title>Grade Student Submissions</title>
+    <body>
+        <p>An example of an embedded video.</p>
+        <object width="576" height="360" data="../images/videos/flipped_Interaction_chatgpt.mp4"
+            outputclass="video"/>
+    </body>
+</topic>
