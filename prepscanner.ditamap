@@ -5,7 +5,7 @@
     <topicref href="maps/getting_started.dita">
         <topicref href="maps/concept_what_is_the_prepscanner_dental_grading_app.dita"/>
         <topicref href="maps/your_account.dita">
-            <topicref href="maps/task_logging_in_old.dita"/>
+            <topicref href="maps/task_logging_in.dita"/>
             <topicref href="maps/task_register_account.dita"/>
             <topicref href="maps/task_resetting_your_password.dita"/>
             <topicref href="maps/reference_account_settings.dita"/>

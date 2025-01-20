@@ -4,6 +4,7 @@
     <title>Grade Student Submissions</title>
     <body>
         <p>An example of an embedded video.</p>
+        <p>These do not work in PDFs </p>
         <object width="576" height="360" data="../images/videos/flipped_Interaction_chatgpt.mp4"
             outputclass="video"/>
     </body>
