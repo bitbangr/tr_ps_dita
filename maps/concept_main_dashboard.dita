@@ -3,6 +3,56 @@
 <concept id="concept_main_dashboard">
     <title>Concept: Main Dashboard</title>
     <conbody>
-        <p></p>
+        <p>The DT-PrepScanner App dashboard is designed to centralize all key functionalities required for managing dental preparation tasks efficiently. The dashboard is divided into eight key sections, each serving a specific purpose.</p>
+        
+        <section>
+            <title>Key Dashboard Sections</title>
+            
+            <dl>
+                <dlentry>
+                    <dt>1. Settings, About, and Updates</dt>
+                    <dd>Provides access to application settings, general information about the app, and options to check for and install updates.</dd>
+                </dlentry>
+                <dlentry>
+                    <dt>2. Window Controls</dt>
+                    <dd>Standard controls to minimize, maximize, or close the app window.</dd>
+                </dlentry>
+                <dlentry>
+                    <dt>3. Account and Logout</dt>
+                    <dd>Displays the logged-in user's name and offers the option to log out of the application.</dd>
+                </dlentry>
+                <dlentry>
+                    <dt>4. Course Selection</dt>
+                    <dd>Allows instructors to select a course, group, and task to manage. This is essential for organizing tasks by course and group.</dd>
+                </dlentry>
+                <dlentry>
+                    <dt>5. Tooth Selection</dt>
+                    <dd>Facilitates the selection of a typodont, numbering system, tooth number, scanner, and scan type for scanning tasks.</dd>
+                </dlentry>
+                <dlentry>
+                    <dt>6. PrepScanner</dt>
+                    <dd>Enables connection to the scanning device for performing scans.</dd>
+                </dlentry>
+                <dlentry>
+                    <dt>7. Scans</dt>
+                    <dd>Allows users to view completed scans or upload new scans for grading and analysis.</dd>
+                </dlentry>
+                <dlentry>
+                    <dt>8. Grader</dt>
+                    <dd>Provides tools to set up grading rubrics and grade student submissions based
+                        on the uploaded scans.</dd>
+                </dlentry>
+            </dl>
+            <p>By understanding these sections, users can effectively navigate the dashboard and
+                utilize its features for streamlined dental preparation management. <fig
+                    id="fig_wvs_w2f_22c">
+                    <title>Main Dashboard Sections</title>
+                    <image placement="break"
+                        href="../images/screenshots/account/app_main_sections.png"
+                        id="image_xvs_w2f_22c">
+                        <alt>Main Dashboard Sections</alt>
+                    </image>
+                </fig></p>
+        </section>
     </conbody>
 </concept>
