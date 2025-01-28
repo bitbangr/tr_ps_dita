@@ -1,8 +1,48 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
-<topic id="reference_key_sections">
+<!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
+<reference id="reference_key_sections">
     <title>Reference: Key Sections</title>
-    <body>
-        <p></p>
-    </body>
-</topic>
+    <refbody>
+        <section>
+            <title>Dashboard Sections Overview</title>
+            <simpletable frame="all" relcolwidth="1* 4*">
+                <sthead>
+                    <stentry>Section</stentry>
+                    <stentry>Description</stentry>
+                </sthead>
+                <strow>
+                    <stentry>Settings, About, and Updates</stentry>
+                    <stentry>Provides access to application settings, general information about the app, and options to check for and install updates.</stentry>
+                </strow>
+                <strow>
+                    <stentry>Window Controls</stentry>
+                    <stentry>Standard controls to minimize, maximize, or close the app window.</stentry>
+                </strow>
+                <strow>
+                    <stentry>Account and Logout</stentry>
+                    <stentry>Displays the logged-in user's name and offers the option to log out of the application.</stentry>
+                </strow>
+                <strow>
+                    <stentry>Course Selection</stentry>
+                    <stentry>Allows instructors to select a course, group, and task to manage. This is essential for organizing tasks by course and group.</stentry>
+                </strow>
+                <strow>
+                    <stentry>Tooth Selection</stentry>
+                    <stentry>Facilitates the selection of a typodont, numbering system, tooth number, scanner, and scan type for scanning tasks.</stentry>
+                </strow>
+                <strow>
+                    <stentry>PrepScanner</stentry>
+                    <stentry>Enables connection to the scanning device for performing scans.</stentry>
+                </strow>
+                <strow>
+                    <stentry>Scans</stentry>
+                    <stentry>Allows users to view completed scans or upload new scans for grading and analysis.</stentry>
+                </strow>
+                <strow>
+                    <stentry>Grader</stentry>
+                    <stentry>Provides tools to set up grading rubrics and grade student submissions based on the uploaded scans.</stentry>
+                </strow>
+            </simpletable>
+        </section>
+    </refbody>
+</reference>
