@@ -1,8 +1,170 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
-<topic id="reference_account_settings">
-    <title>Reference: Account Settings</title>
-    <body>
-        <p></p>
-    </body>
-</topic>
+<!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
+<reference id="reference_account_registration_form_fields">
+    <title>Reference: Account Registration Form Fields</title>
+    <shortdesc>This topic describes the fields you need to fill out to register an account in the <ph keyref="product-name"/>.</shortdesc>
+    <refbody>
+        <properties>
+            <prophead>
+                <proptypehd>Oil type</proptypehd>
+                <propvaluehd>Oil brand</propvaluehd>
+                <propdeschd>Appropriate use</propdeschd>
+            </prophead>
+            <property>
+                <proptype>Primary oil</proptype>
+                <propvalue>A1X</propvalue>
+                <propdesc>Appropriate for one-cylinder engines</propdesc>
+            </property>
+            <property>
+                <proptype>Secondary oil</proptype>
+                <propvalue>B2Z</propvalue>
+                <propdesc>Appropriate for two-cylinder engines</propdesc>
+            </property>
+        </properties>
+        <section>
+            <title>Form Fields</title>
+            <p>Here you can add more content about your topic.</p>
+            <p>The following table provides details about the fields you need to complete when registering for an account.</p>
+            <simpletable>
+                <sthead>
+                    <stentry>Field Name</stentry>
+                    <stentry>Description</stentry>
+                </sthead>
+                <strow>
+                    <stentry>University</stentry>
+                    <stentry>Select your university's code from the dropdown list.</stentry>
+                </strow>
+                <strow>
+                    <stentry>First Name</stentry>
+                    <stentry>Enter your first name in this text field.</stentry>
+                </strow>
+                <strow>
+                    <stentry>Middle Name</stentry>
+                    <stentry>Enter your middle name, if you have one. This field is optional.</stentry>
+                </strow>
+                <strow>
+                    <stentry>Last Name</stentry>
+                    <stentry>Enter your last name (surname) in this text field.</stentry>
+                </strow>
+                <strow>
+                    <stentry>Email</stentry>
+                    <stentry>Enter your email address. Make sure it is valid for communication and verification purposes.</stentry>
+                </strow>
+                <strow>
+                    <stentry>Role</stentry>
+                    <stentry>Specify your role, such as student, faculty, or staff.</stentry>
+                </strow>
+                <strow>
+                    <stentry>Access Code</stentry>
+                    <stentry>Enter your access code here. If you don’t have one, click the "Request" button to receive it via email.</stentry>
+                </strow>
+                <strow>
+                    <stentry>Password</stentry>
+                    <stentry>Create a secure password for your account in this field.</stentry>
+                </strow>
+                <strow>
+                    <stentry>Confirm Password</stentry>
+                    <stentry>Re-enter your password here to confirm it matches the one you entered above.</stentry>
+                </strow>
+                <strow>
+                    <stentry>Agreement Checkbox</stentry>
+                    <stentry>Check this box to agree to the End User License Agreement (EULA) and Privacy Policy.</stentry>
+                </strow>
+                <strow>
+                    <stentry>Register Button</stentry>
+                    <stentry>Click this button to submit the form and complete your registration.</stentry>
+                </strow>
+            </simpletable>
+            
+        </section>
+    </refbody>
+</reference>
+
+<!-- <!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA 1.3 Reference//EN" "dtd/reference.dtd">
+ <reference id="accountRegistrationForm">
+    <title>Account Registration Form Fields</title>
+    <shortdesc>This topic describes two fields you need to fill out to register an account in the <ph keyref="product-name"/>.</shortdesc>
+    <refbody>
+        <section>
+            <title>Form Fields</title>
+            <p>The following table provides details about two fields you need to complete when registering for an account.</p>
+            <simpletable>
+                <sthead>
+                    <stentry>Field Name</stentry>
+                    <stentry>Description</stentry>
+                </sthead>
+                <strow>
+                    <stentry>First Name</stentry>
+                    <stentry>Enter your first name in this text field.</stentry>
+                </strow>
+                <strow>
+                    <stentry>Email</stentry>
+                    <stentry>Enter your email address. Make sure it is valid for communication and verification purposes.</stentry>
+                </strow>
+            </simpletable>
+        </section>
+    </refbody>
+</reference>
+--> 
+<!-- <!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA 1.3 Reference//EN" "dtd/reference.dtd">
+<reference id="accountRegistrationForm">
+    <title>Reference: Account Registration Form Fields</title>
+    <shortdesc>This topic describes the fields you need to fill out to register an account in the <ph keyref="product-name"/>.</shortdesc>
+    <refbody>
+       x <section>
+            <title>Form Fields</title>
+            <p>The following table provides details about the fields you need to complete when registering for an account.</p>
+            <simpletable>
+                <sthead>
+                    <stentry>Field Name</stentry>
+                    <stentry>Description</stentry>
+                </sthead>
+                <strow>
+                    <stentry>University</stentry>
+                    <stentry>Select your university's code from the dropdown list.</stentry>
+                </strow>
+                <strow>
+                    <stentry>First Name</stentry>
+                    <stentry>Enter your first name in this text field.</stentry>
+                </strow>
+                <strow>
+                    <stentry>Middle Name</stentry>
+                    <stentry>Enter your middle name, if you have one. This field is optional.</stentry>
+                </strow>
+                <strow>
+                    <stentry>Last Name</stentry>
+                    <stentry>Enter your last name (surname) in this text field.</stentry>
+                </strow>
+                <strow>
+                    <stentry>Email</stentry>
+                    <stentry>Enter your email address. Make sure it is valid for communication and verification purposes.</stentry>
+                </strow>
+                <strow>
+                    <stentry>Role</stentry>
+                    <stentry>Specify your role, such as student, faculty, or staff.</stentry>
+                </strow>
+                <strow>
+                    <stentry>Access Code</stentry>
+                    <stentry>Enter your access code here. If you don’t have one, click the "Request" button to receive it via email.</stentry>
+                </strow>
+                <strow>
+                    <stentry>Password</stentry>
+                    <stentry>Create a secure password for your account in this field.</stentry>
+                </strow>
+                <strow>
+                    <stentry>Confirm Password</stentry>
+                    <stentry>Re-enter your password here to confirm it matches the one you entered above.</stentry>
+                </strow>
+                <strow>
+                    <stentry>Agreement Checkbox</stentry>
+                    <stentry>Check this box to agree to the End User License Agreement (EULA) and Privacy Policy.</stentry>
+                </strow>
+                <strow>
+                    <stentry>Register Button</stentry>
+                    <stentry>Click this button to submit the form and complete your registration.</stentry>
+                </strow>
+            </simpletable>
+        </section>
+    </refbody>
+</reference>
+-->
