@@ -4,27 +4,16 @@
     <title>Reference: Account Registration Form Fields</title>
     <shortdesc>This topic describes the fields you need to fill out to register an account in the <ph keyref="product-name"/>.</shortdesc>
     <refbody>
-        <properties>
-            <prophead>
-                <proptypehd>Oil type</proptypehd>
-                <propvaluehd>Oil brand</propvaluehd>
-                <propdeschd>Appropriate use</propdeschd>
-            </prophead>
-            <property>
-                <proptype>Primary oil</proptype>
-                <propvalue>A1X</propvalue>
-                <propdesc>Appropriate for one-cylinder engines</propdesc>
-            </property>
-            <property>
-                <proptype>Secondary oil</proptype>
-                <propvalue>B2Z</propvalue>
-                <propdesc>Appropriate for two-cylinder engines</propdesc>
-            </property>
-        </properties>
+        <section>
+            <fig id="fig_iz3_vgm_22c"> <title>Account Registration Form Fields</title> 
+                <image href="../images/screenshots/account/account_registration.png" scale="75" alt="Account Registration Form Fields"/> 
+            </fig>
+        </section>
+        
         <section>
             <title>Form Fields</title>
-            <p>Here you can add more content about your topic.</p>
-            <p>The following table provides details about the fields you need to complete when registering for an account.</p>
+            <p>The following table provides details about the fields you need to complete when
+                registering for an account.</p>
             <simpletable>
                 <sthead>
                     <stentry>Field Name</stentry>
@@ -40,7 +29,8 @@
                 </strow>
                 <strow>
                     <stentry>Middle Name</stentry>
-                    <stentry>Enter your middle name, if you have one. This field is optional.</stentry>
+                    <stentry>Enter your middle name, if you have one. This field is
+                        optional.</stentry>
                 </strow>
                 <strow>
                     <stentry>Last Name</stentry>
@@ -48,7 +38,8 @@
                 </strow>
                 <strow>
                     <stentry>Email</stentry>
-                    <stentry>Enter your email address. Make sure it is valid for communication and verification purposes.</stentry>
+                    <stentry>Enter your email address. Make sure it is valid for communication and
+                        verification purposes.</stentry>
                 </strow>
                 <strow>
                     <stentry>Role</stentry>
@@ -56,7 +47,8 @@
                 </strow>
                 <strow>
                     <stentry>Access Code</stentry>
-                    <stentry>Enter your access code here. If you don’t have one, click the "Request" button to receive it via email.</stentry>
+                    <stentry>Enter your access code here. If you don’t have one, click the "Request"
+                        button to receive it via email.</stentry>
                 </strow>
                 <strow>
                     <stentry>Password</stentry>
@@ -64,18 +56,20 @@
                 </strow>
                 <strow>
                     <stentry>Confirm Password</stentry>
-                    <stentry>Re-enter your password here to confirm it matches the one you entered above.</stentry>
+                    <stentry>Re-enter your password here to confirm it matches the one you entered
+                        above.</stentry>
                 </strow>
                 <strow>
                     <stentry>Agreement Checkbox</stentry>
-                    <stentry>Check this box to agree to the End User License Agreement (EULA) and Privacy Policy.</stentry>
+                    <stentry>Check this box to agree to the End User License Agreement (EULA) and
+                        Privacy Policy.</stentry>
                 </strow>
                 <strow>
                     <stentry>Register Button</stentry>
-                    <stentry>Click this button to submit the form and complete your registration.</stentry>
+                    <stentry>Click this button to submit the form and complete your
+                        registration.</stentry>
                 </strow>
             </simpletable>
-            
         </section>
     </refbody>
 </reference>
@@ -167,4 +161,22 @@
         </section>
     </refbody>
 </reference>
+-->
+<!-- <properties>
+            <prophead>
+                <proptypehd>Oil type</proptypehd>
+                <propvaluehd>Oil brand</propvaluehd>
+                <propdeschd>Appropriate use</propdeschd>
+            </prophead>
+            <property>
+                <proptype>Primary oil</proptype>
+                <propvalue>A1X</propvalue>
+                <propdesc>Appropriate for one-cylinder engines</propdesc>
+            </property>
+            <property>
+                <proptype>Secondary oil</proptype>
+                <propvalue>B2Z</propvalue>
+                <propdesc>Appropriate for two-cylinder engines</propdesc>
+            </property>
+        </properties>
 -->
