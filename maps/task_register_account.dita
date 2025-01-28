@@ -5,11 +5,11 @@
     <shortdesc>Register your  account. </shortdesc>
     <taskbody>
         <context><note id="note_wbg_c1p_b2c"> Get your University Code before you
-            register.</note>Register your new account before using the PrepScanner app.
+                register.</note>Register your new account before using the <ph keyref="product-name"/>.
             <p/></context>
         <steps>
             <step>
-                <cmd>Click Register from the PrepScanner app startup screen.<image placement="break"
+                <cmd>Click Register from the <ph keyref="product-name"/> startup screen.<image placement="break"
                         href="../images/screenshots/account/app_startup_login_register.png"
                         id="image_hnx_rbz_12c"/></cmd>
             </step>

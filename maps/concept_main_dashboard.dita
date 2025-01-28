@@ -3,7 +3,20 @@
 <concept id="concept_main_dashboard">
     <title>Concept: Main Dashboard</title>
     <conbody>
-        <p>The DT-PrepScanner App dashboard is designed to centralize all key functionalities required for managing dental preparation tasks efficiently. The dashboard is divided into eight key sections, each serving a specific purpose.</p>
+        <p>The <ph keyref="product-name-tm"/> dashboard is designed to centralize all key functionalities
+            required for managing dental preparation tasks efficiently. The dashboard is divided
+            into eight key sections, each serving a specific purpose.<fig id="fig_j1z_4gf_22c">
+                <p>
+                    <fig id="fig_zr2_mhf_22c">
+                        <title>Main App Interface</title>
+                        <image placement="break"
+                            href="../images/screenshots/account/app_main_sections.png" scale="75"
+                            id="image_as2_mhf_22c">
+                            <alt>Main App Interface</alt>
+                        </image>
+                    </fig>
+                </p>
+            </fig></p>
         
         <section>
             <title>Key Dashboard Sections</title>
@@ -44,15 +57,7 @@
                 </dlentry>
             </dl>
             <p>By understanding these sections, users can effectively navigate the dashboard and
-                utilize its features for streamlined dental preparation management. <fig
-                    id="fig_wvs_w2f_22c">
-                    <title>Main Dashboard Sections</title>
-                    <image placement="break"
-                        href="../images/screenshots/account/app_main_sections.png"
-                        id="image_xvs_w2f_22c">
-                        <alt>Main Dashboard Sections</alt>
-                    </image>
-                </fig></p>
+                utilize its features for streamlined dental preparation management.</p>
         </section>
     </conbody>
 </concept>
