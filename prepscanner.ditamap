@@ -13,12 +13,7 @@
         </topicref>
         <topicref href="maps/understand_app_interface.dita">
             <topicref href="maps/concept_main_dashboard.dita"/>
-            <topicref href="maps/reference_key_sections.dita">
-                <topicref href="maps/dashboard_overview_of_tasks_and_notifications.dita"/>
-                <topicref href="maps/grading_panel_tools_for_cavity_prep_grading.dita"/>
-                <topicref href="maps/collaboration_team_workflows_and_assignments.dita"/>
-                <topicref href="maps/settings_preferences_and_notifications.dita"/>
-            </topicref>
+            <topicref href="maps/reference_key_sections.dita"/>
         </topicref>
         <topicref href="maps/navigation.dita">
             <topicref href="maps/task_switching_sections.dita"/>
@@ -68,23 +63,16 @@
             <topicref href="topics/tasks/task_providing_feedback_to_students.dita"/>
         </topicref>
     </topicref>
-    <topicref href="maps/ensure_accurate_grading.dita">
-        <topicref href="maps/understand_the_app_interface.dita">
-            <topicref href="topics/tasks/task_navigating_the_dental_grading_app_interface.dita"/>
-            <topicref href="topics/references/reference_user_interface_elements_of_the_dental_grading_app.dita"/>
-            <topicref href="topics/references/reference_glossary_of_terms_for_cavity_prep.dita"/>
-            <topicref href="topics/concepts/concept_what_is_the_dental_grading_app.dita"/>
-        </topicref>
-        <topicref href="maps/implement_collaborative_workflows.dita">
-            <topicref href="topics/tasks/task_assigning_roles_in_collaborative_grading.dita"/>
-            <topicref href="topics/references/reference_collaborative_grading_workflow_overview.dita"/>
-            <topicref href="topics/references/reference_guidelines_for_collaborative_grading.dita"/>
-        </topicref>
-    </topicref>
     <topicref href="maps/collaborate_with_faculty.dita">
         <topicref href="maps/understand_collaborative_features.dita">
             <topicref href="topics/concepts/concept_what_is_collaborative_grading.dita"/>
             <topicref href="topics/concepts/concept_why_is_consistency_important_in_grading.dita"/>
+        </topicref>
+        <topicref href="maps/implement_collaborative_workflows.dita">
+            <topicref href="topics/tasks/task_assigning_roles_in_collaborative_grading.dita"/>
+            <topicref
+                href="topics/references/reference_collaborative_grading_workflow_overview.dita"/>
+            <topicref href="topics/references/reference_guidelines_for_collaborative_grading.dita"/>
         </topicref>
         <topicref href="maps/divide_grading_responsibilities.dita">
             <topicref href="topics/tasks/task_dividing_grading_responsibilities.dita"/>
