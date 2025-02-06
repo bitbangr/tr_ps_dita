@@ -11,7 +11,7 @@
             <topicref href="maps/task_resetting_your_password.dita"/>
             <topicref href="maps/reference_account_settings.dita"/>
         </topicref>
-        <topicref href="maps/app_overview.dita">
+        <topicref href="maps/understand_app_interface.dita">
             <topicref href="maps/concept_main_dashboard.dita"/>
             <topicref href="maps/reference_key_sections.dita">
                 <topicref href="maps/dashboard_overview_of_tasks_and_notifications.dita"/>
