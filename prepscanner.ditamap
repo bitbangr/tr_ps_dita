@@ -34,7 +34,7 @@
             <topicref href="maps/reference_contacting_support.dita"/>
         </topicref>
     </topicref>
-    <topicref href="maps/grade_student_submissions.dita">
+    <topicref href="maps/grade_student_prep_submissions.dita">
         <topicref href="maps/master_the_use_of_measurement_tools.dita">
             <topicref href="topics/tasks/task_measuring_cavity_prep_dimensions.dita"/>
             <topicref href="topics/references/reference_standardized_measurement_techniques.dita"/>
