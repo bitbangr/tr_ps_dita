@@ -2,16 +2,27 @@
 <!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
 <reference id="reference_course_selection">
     <title>Reference: Course Selection</title>
-    <shortdesc>
-        This section provides information on selecting a course, group, and task in the DT PrepScanner App.
-    </shortdesc>
+    <shortdesc> This section provides information on selecting a course, group, and task in the <ph
+            keyref="product-name"/>. </shortdesc>
     <refbody>
+        <example>
+            <fig id="fig_x2r_mss_h2c">
+            
+            </fig>
+            <fig id="fig_blq_cts_h2c">
+                <title>Course Selection Details</title>
+                <image placement="break"
+                    href="../../images/screenshots/course_selection/course_selection_window_controls.png"
+                    scale="50" id="image_clq_cts_h2c">
+                    <alt>Course Selection Details</alt>
+                </image>
+            </fig>
+        </example>
         <section>
             <title>Overview</title>
-            <p>
-                The Course Selection section of the DT PrepScanner App allows users to select a course, 
-                assign groups, and choose specific tasks within the selected course.
-            </p>
+            <p> The Course Selection section of the <ph keyref="product-name"/> allows users to
+                select a course, assign groups, and choose specific tasks within the selected
+                course. </p>
         </section>
         <section>
             <title>Course Selection Process</title>
@@ -35,14 +46,6 @@
                     <dd>Modify specific course details, including Course, Group, Task, Task Due Date, Course Access Date, and Student Report Email Date.</dd>
                 </dlentry>
                 <dlentry>
-                    <dt>Clear Course Selections</dt>
-                    <dd>Reset the selected course and group choices.</dd>
-                </dlentry>
-                <dlentry>
-                    <dt>Clear Tooth Selection</dt>
-                    <dd>Remove any selected tooth configurations.</dd>
-                </dlentry>
-                <dlentry>
                     <dt>Add New Course</dt>
                     <dd>Create a new course entry.</dd>
                 </dlentry>
@@ -50,6 +53,10 @@
                     <dt>Delete Course</dt>
                     <dd>Remove an existing course from the system.</dd>
                 </dlentry>
+                <dlentry>
+                    <dt>Clear Course Selections and Tooth Selections</dt>
+                    <dd>Reset the selected course, group, task, and tooth choices.</dd>
+                </dlentry>              
             </dl>
         </section>
     </refbody>
