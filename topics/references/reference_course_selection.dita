@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
+<reference id="reference_course_selection">
+    <title>Reference: Course Selection</title>
+    <shortdesc>
+        This section provides information on selecting a course, group, and task in the DT PrepScanner App.
+    </shortdesc>
+    <refbody>
+        <section>
+            <title>Overview</title>
+            <p>
+                The Course Selection section of the DT PrepScanner App allows users to select a course, 
+                assign groups, and choose specific tasks within the selected course.
+            </p>
+        </section>
+        <section>
+            <title>Course Selection Process</title>
+            <ul>
+                <li>
+                    <p>Select course: Choose the relevant course from the available list.</p>
+                </li>
+                <li>
+                    <p>Select group: Assign or choose the appropriate group within the selected course.</p>
+                </li>
+                <li>
+                    <p>Select task: Pick a task related to the course for further processing.</p>
+                </li>
+            </ul>
+        </section>
+        <section>
+            <title>Additional Course Operations</title>
+            <dl>
+                <dlentry>
+                    <dt>Edit Course Details</dt>
+                    <dd>Modify specific course details, including Course, Group, Task, Task Due Date, Course Access Date, and Student Report Email Date.</dd>
+                </dlentry>
+                <dlentry>
+                    <dt>Clear Course Selections</dt>
+                    <dd>Reset the selected course and group choices.</dd>
+                </dlentry>
+                <dlentry>
+                    <dt>Clear Tooth Selection</dt>
+                    <dd>Remove any selected tooth configurations.</dd>
+                </dlentry>
+                <dlentry>
+                    <dt>Add New Course</dt>
+                    <dd>Create a new course entry.</dd>
+                </dlentry>
+                <dlentry>
+                    <dt>Delete Course</dt>
+                    <dd>Remove an existing course from the system.</dd>
+                </dlentry>
+            </dl>
+        </section>
+    </refbody>
+</reference>
