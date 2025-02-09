@@ -24,7 +24,7 @@
             <title>Tooth Selection Process</title>
             <ul>
                 <li>
-                    <p>Select typodent: Choose from available typodont models (e.g., Columbia
+                    <p><b>Select typodent</b>: Choose from available typodont models (e.g., Columbia
                         Dentoform-USyd). <note id="note_unz_xmv_h2c"><b>Typodont</b> refers to a
                             dental model used to simulate a patient’s mouth. It helps students
                             practice dental procedures, such as tooth preparations, in a controlled
@@ -38,8 +38,8 @@
                             </fig></note></p>
                 </li>
                 <li>
-                    <p>Select numbering system: Choose either the FDI or ADA numbering format for
-                        tooth identification.<note id="note_hs3_knv_h2c">The <b><xref
+                    <p><b>Select numbering system</b>: Choose either the FDI or ADA numbering format
+                        for tooth identification.<note id="note_hs3_knv_h2c">The <b><xref
                                     href="https://en.wikipedia.org/wiki/FDI_World_Dental_Federation_notation"
                                     format="html" scope="external">FDI</xref></b> and <b><xref
                                     href="https://en.wikipedia.org/wiki/Universal_Numbering_System"
@@ -49,19 +49,24 @@
                             professionals worldwide.</note></p>
                 </li>
                 <li>
-                    <p>Select tooth number: Pick the specific tooth for dental prep evaluation.
-                            <note id="note_zw5_tpv_h2c">The tooth number is specific to the selected
-                            numbering system, FDI or ADA.</note>
+                    <p><b>Select tooth number</b>: Pick the specific tooth for dental prep
+                        evaluation. <note id="note_zw5_tpv_h2c">The tooth number is specific to the
+                            selected numbering system, FDI or ADA.</note>
                     </p>
                 </li>
                 <li>
-                    <p>Scanners: Select the scanning device to be used.<note id="note_g5b_rrv_h2c"
-                            >Dental scanners are advanced imaging devices used in dentistry to
-                            capture detailed 3D digital impressions of a patient's teeth and oral
-                            structures.  </note><note id="note_rvq_vrv_h2c"><b>Intraoral Scanners
-                                (IOS)</b> – Handheld devices that dentists use to scan a patient’s
-                            mouth directly, creating a precise 3D digital model of teeth and gums.
-                                <fig id="fig_njx_dtv_h2c">
+                    <p><b>Scanners</b>: Select the scanning device to be used.</p>
+                    <note id="note_ybh_bwv_h2c"> Select <b>PrepScanner</b> or <b>Intraoral
+                            Scanner</b></note>
+                </li>
+                <li>
+                <p><b>Intraoral Scanners</b>: Select the specific intraoral scanning device model to
+                        be used.<note id="note_g5b_rrv_h2c">Dental scanners are advanced imaging
+                            devices used in dentistry to capture detailed 3D digital impressions of
+                            a patient's teeth and oral structures. </note><note
+                            id="note_rvq_vrv_h2c"><b>Intraoral Scanners (IOS)</b> – Handheld devices
+                            that dentists use to scan a patient’s mouth directly, creating a precise
+                            3D digital model of teeth and gums. <fig id="fig_njx_dtv_h2c">
                                 <title>Primescan 2 Intraoral Scanner</title>
                                 <image placement="break"
                                     href="../../images/screenshots/tooth_selection/PrimeScan2ItraoralScanner.png"
@@ -71,7 +76,18 @@
                             </fig></note></p>
                 </li>
                 <li>
-                    <p>Scan type: Choose the type of scan to be performed.</p>
+                    <p><b>Scan type</b>: Choose the type of scan to be performed.<note
+                            id="note_uwr_p5v_h2c">For Intraoral scanners there are two types,
+                                    <b><xref
+                                    href="https://en.wikipedia.org/wiki/STL_%28file_format%29"
+                                    format="html" scope="external">STL</xref></b> File and <b><xref
+                                    href="https://en.wikipedia.org/wiki/PLY_%28file_format%29"
+                                    format="html" scope="external">PLY</xref></b> File.</note><note
+                            id="note_lrs_t5v_h2c"><b>For restorations (crowns, bridges,
+                                implants):</b> STL is preferred because it is lightweight and
+                            universally compatible.</note><note id="note_ml2_x5v_h2c"><b>For
+                                orthodontics, diagnostics, and soft tissue scanning:</b> PLY is
+                            useful because it retains color and texture information.</note></p>
                 </li>
             </ul>
         </section>
