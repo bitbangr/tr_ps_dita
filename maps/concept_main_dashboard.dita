@@ -39,7 +39,8 @@
                     <dd>Allows instructors to select a course, group, and task to manage. This is essential for organizing tasks by course and group.</dd>
                 </dlentry>
                 <dlentry>
-                    <dt>5. Tooth Selection</dt>
+                    <dt>5. <xref href="../topics/references/reference_tooth_selection.dita">Tooth
+                            Selection</xref></dt>
                     <dd>Facilitates the selection of a typodont, numbering system, tooth number, scanner, and scan type for scanning tasks.</dd>
                 </dlentry>
                 <dlentry>

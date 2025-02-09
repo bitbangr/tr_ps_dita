@@ -49,8 +49,10 @@
                             professionals worldwide.</note></p>
                 </li>
                 <li>
-                    <p>Select tooth number: Pick the specific tooth for dental prep evaluation. This
-                        number is specific to the chosen numbering system, FDI or ADA. </p>
+                    <p>Select tooth number: Pick the specific tooth for dental prep evaluation.
+                            <note id="note_zw5_tpv_h2c">The tooth number is specific to the chosen
+                            numbering system, FDI or ADA.</note>
+                    </p>
                 </li>
                 <li>
                     <p>Scanners: Select the scanning device to be used.</p>
