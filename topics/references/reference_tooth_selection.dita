@@ -2,6 +2,49 @@
 <!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
 <reference id="reference_tooth_selection">
     <title>Reference: Tooth Selection</title>
-    <shortdesc></shortdesc>
-    <refbody> </refbody>
+    <shortdesc> This section provides information on selecting a typodont, numbering system, tooth
+        number, scanners, and scan type in the <ph keyref="product-name"/>. </shortdesc>
+    <refbody>
+        <example>
+            <fig id="fig_k5c_3lv_h2c">
+                <title>Tooth Selection Details</title>
+                <image placement="break"
+                    href="../../images/screenshots/tooth_selection/tooth_selection_app_section.png"
+                    scale="50" id="image_l5c_3lv_h2c">
+                    <alt>Tooth Selection Details</alt>
+                </image>
+            </fig>
+        </example>
+        <section>
+            <title>Overview</title>
+            <p> The Tooth Selection section of the <ph keyref="product-name"/> allows users to
+                configure tooth selection parameters before proceeding with scanning. </p>
+        </section>
+        <section>
+            <title>Tooth Selection Process</title>
+            <ul>
+                <li>
+                    <p>Select typodont: Choose from available typodont models (e.g., Columbia Dentoform-USyd).</p>
+                </li>
+                <li>
+                    <p>Select numbering system: Choose the numbering format for tooth identification.</p>
+                </li>
+                <li>
+                    <p>Select tooth number: Pick the specific tooth for scanning.</p>
+                </li>
+                <li>
+                    <p>Scanners: Select the scanning device to be used.</p>
+                </li>
+                <li>
+                    <p>Scan type: Choose the type of scan to be performed.</p>
+                </li>
+            </ul>
+        </section>
+        <section>
+            <title>Save Selection</title>
+            <p>
+                After making selections, users must confirm their choices by clicking the "Save Selected Options" button.
+            </p>
+        </section>
+    </refbody>
 </reference>
