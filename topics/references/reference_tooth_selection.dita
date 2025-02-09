@@ -18,7 +18,7 @@
         <section>
             <title>Overview</title>
             <p> The Tooth Selection section of the <ph keyref="product-name"/> allows users to
-                configure tooth selection parameters before proceeding with scanning. </p>
+                configure tooth selection parameters before proceeding with dental prep evaluation. </p>
         </section>
         <section>
             <title>Tooth Selection Process</title>
@@ -50,12 +50,25 @@
                 </li>
                 <li>
                     <p>Select tooth number: Pick the specific tooth for dental prep evaluation.
-                            <note id="note_zw5_tpv_h2c">The tooth number is specific to the chosen
+                            <note id="note_zw5_tpv_h2c">The tooth number is specific to the selected
                             numbering system, FDI or ADA.</note>
                     </p>
                 </li>
                 <li>
-                    <p>Scanners: Select the scanning device to be used.</p>
+                    <p>Scanners: Select the scanning device to be used.<note id="note_g5b_rrv_h2c"
+                            >Dental scanners are advanced imaging devices used in dentistry to
+                            capture detailed 3D digital impressions of a patient's teeth and oral
+                            structures.  </note><note id="note_rvq_vrv_h2c"><b>Intraoral Scanners
+                                (IOS)</b> – Handheld devices that dentists use to scan a patient’s
+                            mouth directly, creating a precise 3D digital model of teeth and gums.
+                                <fig id="fig_njx_dtv_h2c">
+                                <title>Primescan 2 Intraoral Scanner</title>
+                                <image placement="break"
+                                    href="../../images/screenshots/tooth_selection/PrimeScan2ItraoralScanner.png"
+                                    scale="50" id="image_ojx_dtv_h2c">
+                                    <alt>PrimeScan 2 Intraoral Scanner</alt>
+                                </image>
+                            </fig></note></p>
                 </li>
                 <li>
                     <p>Scan type: Choose the type of scan to be performed.</p>
