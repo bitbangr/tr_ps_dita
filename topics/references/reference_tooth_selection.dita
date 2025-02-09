@@ -24,13 +24,33 @@
             <title>Tooth Selection Process</title>
             <ul>
                 <li>
-                    <p>Select typodont: Choose from available typodont models (e.g., Columbia Dentoform-USyd).</p>
+                    <p>Select typodent: Choose from available typodont models (e.g., Columbia
+                        Dentoform-USyd). <note id="note_unz_xmv_h2c"><b>Typodont</b> refers to a
+                            dental model used to simulate a patient’s mouth. It helps students
+                            practice dental procedures, such as tooth preparations, in a controlled
+                            environment. <fig id="fig_n5y_ynv_h2c">
+                                <title>Kilgore Typodent</title>
+                                <image placement="break"
+                                    href="../../images/screenshots/tooth_selection/KilgoreTypodontModel_D85-SDP-200.png"
+                                    scale="40" id="image_o5y_ynv_h2c">
+                                    <alt>Kilgore Typodent</alt>
+                                </image>
+                            </fig></note></p>
                 </li>
                 <li>
-                    <p>Select numbering system: Choose the numbering format for tooth identification.</p>
+                    <p>Select numbering system: Choose either the FDI or ADA numbering format for
+                        tooth identification.<note id="note_hs3_knv_h2c">The <b><xref
+                                    href="https://en.wikipedia.org/wiki/FDI_World_Dental_Federation_notation"
+                                    format="html" scope="external">FDI</xref></b> and <b><xref
+                                    href="https://en.wikipedia.org/wiki/Universal_Numbering_System"
+                                    format="html" scope="external">ADA</xref></b> numbering systems
+                            are internationally recognized and widely used in dental practice and
+                            education. They ensure consistency in identifying teeth across dental
+                            professionals worldwide.</note></p>
                 </li>
                 <li>
-                    <p>Select tooth number: Pick the specific tooth for scanning.</p>
+                    <p>Select tooth number: Pick the specific tooth for dental prep evaluation. This
+                        number is specific to the chosen numbering system, FDI or ADA. </p>
                 </li>
                 <li>
                     <p>Scanners: Select the scanning device to be used.</p>
