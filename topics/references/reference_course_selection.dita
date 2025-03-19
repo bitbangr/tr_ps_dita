@@ -14,7 +14,8 @@
                 <image placement="break"
                     href="../../images/screenshots/course_selection/course_selection_window_controls.png"
                     scale="50" id="image_clq_cts_h2c">
-                    <alt>Course Selection Details</alt>
+                    <alt>Course selection window with options to select course, group, and task, and
+                        buttons for editing, clearing, and adding courses.</alt>
                 </image>
             </fig>
         </example>
