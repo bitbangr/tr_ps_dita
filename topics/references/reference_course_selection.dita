@@ -2,13 +2,10 @@
 <!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
 <reference id="reference_course_selection">
     <title>Reference: Course Selection</title>
-    <shortdesc> This section provides information on selecting a course, group, and task in the <ph
+    <shortdesc>This section provides information on selecting a course, group, and task in the <ph
             keyref="product-name"/>. </shortdesc>
     <refbody>
         <example>
-            <fig id="fig_x2r_mss_h2c">
-            
-            </fig>
             <fig id="fig_blq_cts_h2c">
                 <title>Course Selection Details</title>
                 <image placement="break"

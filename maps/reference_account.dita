@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
+<reference id="reference_account_and_logout">
+    <title>Reference: Account Details Page</title>
+    <shortdesc>This section provides information on managing your profile, changing your password, and deleting your account in the <ph 
+            keyref="product-name"/>.</shortdesc>
+    <refbody>
+        <example id="example_cpg_4cl_s2c">
+            <fig id="fig_cfr_4dl_s2c">
+                <title>Account Details Page</title>
+                <image placement="break" href="../images/screenshots/account/account_edit1.png"
+                    scale="50" id="image_dfr_4dl_s2c">
+                    <alt>Account details page showing profile information, options to change the
+                        profile image, edit profile, change password, and delete account.</alt>
+                </image>
+            </fig>
+        </example>
+        <section id="section_rsx_5dl_s2c">
+            <title>Overview</title>
+            <p>The Account Details section of the <ph keyref="product-name"/> allows you to
+                update your profile information, change your password, or delete your account.</p>
+        </section>
+        <section id="section_z1c_v2l_s2c">
+            <title>Managing Your Profile</title>
+            <p>
+                <ul id="ul_orm_x2l_s2c">
+                    <li><p><b>Add Profile Image:</b> The camera icon on the profile image allows you to upload a new profile picture.</p></li>
+                    <li>
+                        <p><b>Edit Profile:</b> The profile section includes a gear icon that allows you to edit the following profile details:</p>
+                        <ul>
+                            <li><b>First Name:</b></li>
+                            <li><b>Middle Name:</b> </li>
+                            <li><b>Last Name:</b> </li>
+                            <li><b>Email:</b></li>
+                            <li><b>Current Password:</b></li>
+                        </ul>
+                    </li>
+                </ul>
+                <fig id="fig_ry2_d3l_s2c"><title>Edit Profile Dialog</title>
+                                                <image placement="break"
+                                href="../images/screenshots/account/EditAccountProfile_small.png"
+                                scale="50" id="image_lqj_qjl_s2c">
+                                                    <alt>Edit Profile dialog displayed after selecting the gear icon. The dialog includes fields for First Name, Middle Name, Last Name, Email, and Current Password. Users can update their profile details and confirm changes by clicking the 'Update' button or cancel by selecting 'Close'.</alt>
+                            </image>
+                </fig>
+            </p>
+        </section> 
+    </refbody>
+</reference>

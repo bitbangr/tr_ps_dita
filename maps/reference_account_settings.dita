@@ -74,7 +74,7 @@
     </refbody>
 </reference>
 
-<!-- <!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA 1.3 Reference//EN" "dtd/reference.dtd">
+<!-- < ! DOCTYPE reference PUBLIC "-//OASIS//DTD DITA 1.3 Reference//EN" "dtd/reference.dtd">
  <reference id="accountRegistrationForm">
     <title>Account Registration Form Fields</title>
     <shortdesc>This topic describes two fields you need to fill out to register an account in the <ph keyref="product-name"/>.</shortdesc>
@@ -100,7 +100,7 @@
     </refbody>
 </reference>
 --> 
-<!-- <!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA 1.3 Reference//EN" "dtd/reference.dtd">
+<!-- < ! DOCTYPE reference PUBLIC "-//OASIS//DTD DITA 1.3 Reference//EN" "dtd/reference.dtd">
 <reference id="accountRegistrationForm">
     <title>Reference: Account Registration Form Fields</title>
     <shortdesc>This topic describes the fields you need to fill out to register an account in the <ph keyref="product-name"/>.</shortdesc>
