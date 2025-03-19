@@ -30,8 +30,9 @@
                     <dd>Standard controls to minimize, maximize, or close the app window.</dd>
                 </dlentry>
                 <dlentry>
-                    <dt>3. Account and Logout</dt>
-                    <dd>Displays the logged-in user's name and offers the option to log out of the application.</dd>
+                    <dt>3. <xref href="../topics/references/reference_account.dita">Account Details</xref></dt>
+                    <dd>Displays the logged-in user's details and provides options to manage
+                        profile, update profile image, change password, and delete account.</dd>
                 </dlentry>
                 <dlentry>
                     <dt>4. <xref href="../topics/references/reference_course_selection.dita">Course
