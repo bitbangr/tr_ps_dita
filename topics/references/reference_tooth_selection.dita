@@ -129,13 +129,34 @@
                             </fig></note></p>
                 </li>
                 <li>
-                    <p><b>Scan type</b>: Choose the type of scan to be performed.<note
-                            id="note_uwr_p5v_h2c">For Intraoral scanners there are two types,
-                                    <b><xref
+                    <p><b>Scan type - PrepScanner</b>: Choose the type of scan to be performed.<fig
+                            id="fig_pcd_yd1_t2c">
+                            <title>PrepScanner Scan Type Dropdown Selections</title>
+                            <image placement="break"
+                                href="../../images/screenshots/tooth_selection/tooth_selection_prepscanner_selection_scan_types.png"
+                                scale="70" id="image_qcd_yd1_t2c">
+                                <alt>PrepScanner scan type dropdown with options including Full
+                                    Crown Prep, Resto Prep, Capture Image, and Partial Crown
+                                    Prep.</alt>
+                            </image>
+                        </fig></p>
+                </li>
+                <li>
+                    <p><b>Scan type - Intraoral Scanner</b>: Choose the type of scan to be
+                            performed.<fig id="fig_kjy_x21_t2c">
+                            <title>Intraoral Scanner Scan Type Dropdown Selections</title>
+                            <image placement="break"
+                                href="../../images/screenshots/tooth_selection/tooth_selection_intraoral_scanner_scan_file_type_selection.png"
+                                scale="80" id="image_ljy_x21_t2c">
+                                <alt>Intraoral Scanner selection with scan type dropdown showing STL
+                                    and PLY file format options.</alt>
+                            </image>
+                        </fig><note id="note_uwr_p5v_h2c">Intraoral scanners support two scan file
+                                    types—<b><xref
                                     href="https://en.wikipedia.org/wiki/STL_%28file_format%29"
-                                    format="html" scope="external">STL</xref></b> File and <b><xref
+                                    format="html" scope="external">STL</xref></b> and <b><xref
                                     href="https://en.wikipedia.org/wiki/PLY_%28file_format%29"
-                                    format="html" scope="external">PLY</xref></b> File.</note><note
+                                    format="html" scope="external">PLY</xref></b>.</note><note
                             id="note_lrs_t5v_h2c"><b>For restorations (crowns, bridges,
                                 implants):</b> STL is preferred because it is lightweight and
                             universally compatible.</note><note id="note_ml2_x5v_h2c"><b>For
