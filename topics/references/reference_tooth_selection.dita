@@ -91,18 +91,35 @@
                         </fig></p>
                 </li>
                 <li>
-                    <p><b>Scanners</b>: Select the scanning device to be used.</p>
-                    <note id="note_ybh_bwv_h2c"> Select <b>PrepScanner</b> or <b>Intraoral
-                            Scanner</b></note>
+                    <p><b>Scanners</b>: Select the scanning device to be used.
+                    <fig id="fig_n2h_1yz_s2c">
+                        <title>PrepScanner or Intraoral Scanner Selection</title>
+                        <image placement="break"
+                            href="../../images/screenshots/tooth_selection/toothSelectionScannerType.png"
+                            scale="70" id="image_o2h_1yz_s2c">
+                            <alt>Tooth Selection: Scanners dropdown with options 'PrepScanner' and
+                                'Intraoral Scanner'.</alt>
+                        </image>
+                    </fig>
+                    <note id="note_g5b_rrv_h2c">Dental scanners are advanced imaging
+                        devices used in dentistry to capture detailed 3D digital impressions of
+                        a patient's teeth and oral structures. </note></p>
                 </li>
                 <li>
-                <p><b>Intraoral Scanners</b>: Select the specific intraoral scanning device model to
-                        be used.<note id="note_g5b_rrv_h2c">Dental scanners are advanced imaging
-                            devices used in dentistry to capture detailed 3D digital impressions of
-                            a patient's teeth and oral structures. </note><note
-                            id="note_rvq_vrv_h2c"><b>Intraoral Scanners (IOS)</b> – Handheld devices
-                            that dentists use to scan a patient’s mouth directly, creating a precise
-                            3D digital model of teeth and gums. <fig id="fig_njx_dtv_h2c">
+                <p><b>Intraoral Scanners</b>: When <b>Intraoral Scanner</b> is selected, a specific
+                        model of the intraoral scanning device must be chosen..<fig
+                            id="fig_uj5_q11_t2c">
+                            <title>Intraoral Scanner Models</title>
+                            <image placement="break"
+                                href="../../images/screenshots/tooth_selection/tooth_selection_intraoral_scanner_type_selection.png"
+                                scale="70" id="image_vj5_q11_t2c">
+                                <alt>Dropdown list showing available Intraoral Scanner models,
+                                    including Primescan and TRIOS options.</alt>
+                            </image>
+                        </fig>
+                        <note id="note_rvq_vrv_h2c"><b>Intraoral Scanners (IOS)</b> – Handheld
+                            devices that dentists use to scan a patient’s mouth directly, creating a
+                            precise 3D digital model of teeth and gums. <fig id="fig_njx_dtv_h2c">
                                 <title>Primescan 2 Intraoral Scanner</title>
                                 <image placement="break"
                                     href="../../images/screenshots/tooth_selection/PrimeScan2ItraoralScanner.png"
