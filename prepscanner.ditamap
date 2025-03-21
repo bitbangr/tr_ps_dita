@@ -59,8 +59,8 @@
             <topicref href="topics/references/reference_evaluation_criteria_for_cavity_prep.dita"/>
         </topicref>
         <topicref href="maps/manage_grading_rubric_updates.dita">
-            <topicref href="topics/tasks/task_regrading_submissions_after_rubric_updates.dita"/>
             <topicref href="topics/tasks/task_managing_grading_rubric_updates.dita"/>
+            <topicref href="topics/tasks/task_regrading_submissions_after_rubric_updates.dita"/>
         </topicref>
     </topicref>
     <topicref href="maps/provide_student_feedback.dita">

@@ -26,13 +26,40 @@
             <title>Course Selection Process</title>
             <ul>
                 <li>
-                    <p>Select course: Choose the relevant course from the available list.</p>
+                    <p>Select course: Choose the relevant course from the available list.<fig
+                            id="fig_sfw_xkz_s2c">
+                            <title>Select course dropdown</title>
+                            <image placement="break"
+                                href="../../images/screenshots/course_selection/course_selection_select_course.png"
+                                scale="70" id="image_tfw_xkz_s2c">
+                                <alt>A dropdown listbox showing four available courses with 'Fixed
+                                    Prostho' selected</alt>
+                            </image>
+                        </fig></p>
+                    
                 </li>
                 <li>
-                    <p>Select group: Assign or choose the appropriate group within the selected course.</p>
+                    <p>Select group: Assign or choose the appropriate group within the selected
+                            course.<fig id="fig_u5j_skz_s2c">
+                            <title>Select group dropdown list</title>
+                            <image placement="break"
+                                href="../../images/screenshots/course_selection/course_selection_select_group.png"
+                                scale="70" id="image_v5j_skz_s2c">
+                                <alt>A dropdown listbox with one group 'B' selected</alt>
+                            </image>
+                        </fig></p>
                 </li>
                 <li>
-                    <p>Select task: Pick a task related to the course for further processing.</p>
+                    <p>Select task: Pick a task related to the course for further processing.<fig
+                            id="fig_gjk_2lz_s2c">
+                            <title>Select task dropdown list</title>
+                            <image placement="break"
+                                href="../../images/screenshots/course_selection/course_selection_select_tasks.png"
+                                scale="70" id="image_hjk_2lz_s2c">
+                                <alt>A dropdown listbox with one task 'Crown Prep - ADA 5 / FDI 15'
+                                    selected</alt>
+                            </image>
+                        </fig></p>
                 </li>
             </ul>
         </section>
@@ -41,15 +68,41 @@
             <dl>
                 <dlentry>
                     <dt>Edit Course Details</dt>
-                    <dd>Modify specific course details, including Course, Group, Task, Task Due Date, Course Access Date, and Student Report Email Date.</dd>
+                    <dd>Modify specific course details, including Course, Group, Task, Task Due
+                        Date, Course Access Date, and Student Report Email Date.<fig
+                            id="fig_dv5_fnz_s2c">
+                            <title>Edit Course Details</title>
+                            <image placement="break"
+                                href="../../images/screenshots/course_selection/course_selection_configuration_selections.png"
+                                scale="50" id="image_ev5_fnz_s2c">
+                                <alt>Dialog for editing course details</alt>
+                            </image>
+                        </fig></dd>
                 </dlentry>
                 <dlentry>
                     <dt>Add New Course</dt>
-                    <dd>Create a new course entry.</dd>
+                    <dd>Create a new course entry.<fig id="fig_tby_14z_s2c">
+                            <title>Create Course Details</title>
+                            <image placement="break"
+                                href="../../images/screenshots/course_selection/course_selection_add_course_course_group_task_code.png"
+                                scale="70" id="image_uby_14z_s2c">
+                                <alt>Create Course Details page with fields for Course, Group, Task,
+                                    and Code. User-selected values are shown, with a cursor hovering
+                                    over the 'Create' button.</alt>
+                            </image>
+                        </fig></dd>
                 </dlentry>
                 <dlentry>
                     <dt>Delete Course</dt>
-                    <dd>Remove an existing course from the system.</dd>
+                    <dd>Remove an existing course from the system.<fig id="fig_f4q_1pz_s2c">
+                            <title>Course Edit Page with Delete Course Button</title>
+                            <image placement="break"
+                                href="../../images/screenshots/course_selection/course_selection_delete_task.png"
+                                scale="70" id="image_hx3_jpz_s2c">
+                                <alt>Course Edit page with options to configure, rename, and set dates.
+                                    A red delete button is highlighted for course deletion.</alt>
+                            </image>
+                        </fig></dd>
                 </dlentry>
                 <dlentry>
                     <dt>Clear Course Selections and Tooth Selections</dt>
