@@ -39,7 +39,7 @@
                 <fig id="fig_ry2_d3l_s2c"><title>Edit Profile Dialog</title>
                                                 <image placement="break"
                                 href="../../images/screenshots/account/EditAccountProfile_small.png"
-                                scale="50" id="image_lqj_qjl_s2c">
+                                scale="70" id="image_lqj_qjl_s2c">
                                                     <alt>Edit Profile dialog displayed after selecting the gear icon. The dialog includes fields for First Name, Middle Name, Last Name, Email, and Current Password. Users can update their profile details and confirm changes by clicking the 'Update' button or cancel by selecting 'Close'.</alt>
                             </image>
                 </fig>

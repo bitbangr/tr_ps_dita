@@ -25,10 +25,20 @@
             <ul>
                 <li>
                     <p><b>Select typodent</b>: Choose from available typodont models (e.g., Columbia
-                        Dentoform-USyd). <note id="note_unz_xmv_h2c"><b>Typodont</b> refers to a
-                            dental model used to simulate a patient’s mouth. It helps students
-                            practice dental procedures, such as tooth preparations, in a controlled
-                            environment. <fig id="fig_n5y_ynv_h2c">
+                            Dentoform-USyd).<fig id="fig_sbm_rsz_s2c">
+                            <title>Select Typodont Details</title>
+                            <image placement="break"
+                                href="../../images/screenshots/tooth_selection/toothSelectionDropDown.png"
+                                scale="70" id="image_tbm_rsz_s2c">
+                                <alt>Tooth Selection area in Prepscanner app with 'Select Typodont'
+                                    dropdown. 'Columbia Dentoform' is selected, showing multiple
+                                    typodont options.</alt>
+                            </image>
+                        </fig>
+                        <note id="note_unz_xmv_h2c"><b>Typodont</b> refers to a dental model used to
+                            simulate a patient’s mouth. It helps students practice dental
+                            procedures, such as tooth preparations, in a controlled environment.
+                                <fig id="fig_n5y_ynv_h2c">
                                 <title>Kilgore Typodent</title>
                                 <image placement="break"
                                     href="../../images/screenshots/tooth_selection/KilgoreTypodontModel_D85-SDP-200.png"
@@ -39,7 +49,16 @@
                 </li>
                 <li>
                     <p><b>Select numbering system</b>: Choose either the FDI or ADA numbering format
-                        for tooth identification.<note id="note_hs3_knv_h2c">The <b><xref
+                        for tooth identification.<fig id="fig_qd5_qtz_s2c">
+                            <title>Select Numbering System Details</title>
+                            <image placement="break"
+                                href="../../images/screenshots/tooth_selection/toothNumberingSystem.png"
+                                scale="70" id="image_rd5_qtz_s2c">
+                                <alt>Prepscanner Tooth Selection: Dropdown for Numbering System,
+                                    with options FDI and ADA.</alt>
+                            </image>
+                        </fig>
+                        <note id="note_hs3_knv_h2c">The <b><xref
                                     href="https://en.wikipedia.org/wiki/FDI_World_Dental_Federation_notation"
                                     format="html" scope="external">FDI</xref></b> and <b><xref
                                     href="https://en.wikipedia.org/wiki/Universal_Numbering_System"
@@ -52,7 +71,24 @@
                     <p><b>Select tooth number</b>: Pick the specific tooth for dental prep
                         evaluation. <note id="note_zw5_tpv_h2c">The tooth number is specific to the
                             selected numbering system, FDI or ADA.</note>
-                    </p>
+                        <fig id="fig_rnt_cvz_s2c">
+                            <title>FDI Select Tooth Number Details</title>
+                            <image placement="break"
+                                href="../../images/screenshots/tooth_selection/fdiToothSelectionDropDownSelection.png"
+                                scale="70" id="image_snt_cvz_s2c">
+                                <alt>FDI numbering system selected, so FDI tooth numbers are shown
+                                    in the dropdown.</alt>
+                            </image>
+                        </fig>
+                        <fig id="fig_i4l_lvz_s2c">
+                            <title>ADA Select Tooth Number Details</title>
+                            <image placement="break"
+                                href="../../images/screenshots/tooth_selection/adaToothSelectionDropDownSelection.png"
+                                scale="70" id="image_j4l_lvz_s2c">
+                                <alt>ADA numbering system selected, so ADA tooth numbers are shown
+                                    in the dropdown</alt>
+                            </image>
+                        </fig></p>
                 </li>
                 <li>
                     <p><b>Scanners</b>: Select the scanning device to be used.</p>
