@@ -3,8 +3,13 @@
 <topic id="concept_what_is_the_prepscanner_dental_grading_app">
     <title>Concept: What Is the <ph keyref="product-name-tm"/> for Dental Grading?</title>
     <body>
-        <p>The <ph keyref="product-name-tm"/> for Dental Grading streamlines dental education with efficient and
-            accurate grading. </p>
+        <p><image placement="break" href="../images/screenshots/misc/DenTeach-Scanner-1-300x300.png"
+                scale="50" id="image_dtb_13v_v2c">
+                <alt>DT-PrepScanner Logo</alt>
+        </image> A faster, smarter way to grade tooth preps, the <ph keyref="product-name-tm"/> for Dental
+            Grading streamlines dental education with efficient and accurate grading. It helps
+            instructors and students evaluate dental work with accuracy and ease, replacing manual
+            grading with digital tools that save time and improve feedback.</p>
         <p>Key features include:</p>
         <ul id="ul_uxq_dcn_12c">
             <li><b>Advanced Technology</b>: Robotic precision and laser sensing for accurate
@@ -21,6 +26,8 @@
                     <li>Helps students understand and improve their work.</li>
                 </ul></li>
         </ul>
+        <p><image placement="break" href="../images/screenshots/misc/PrepScans.png"
+                id="image_tdv_53v_v2c"/></p>
+    
     </body>
 </topic>
-
