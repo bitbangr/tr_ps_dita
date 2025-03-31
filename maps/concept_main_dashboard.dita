@@ -18,31 +18,35 @@
                 </p>
             </fig></p>
         
-        <section>
-            <title>Key Dashboard Sections</title>            
-            <dl>
+        <section id="section_jly_fn5_v2c">
+            <title>Key Dashboard Sections</title>
+            <dl id="dl_oly_fn5_v2c">
                 <dlentry>
                     <dt>1. Settings, About, and Updates</dt>
-                    <dd>Provides access to application settings, general information about the app, and options to check for and install updates.</dd>
+                    <dd>Provides access to application settings, general information about the app,
+                        and options to check for and install updates.</dd>
                 </dlentry>
                 <dlentry>
                     <dt>2. Window Controls</dt>
                     <dd>Standard controls to minimize, maximize, or close the app window.</dd>
                 </dlentry>
                 <dlentry>
-                    <dt>3. <xref href="../topics/references/reference_account.dita">Account Details</xref></dt>
+                    <dt>3. <xref href="../topics/references/reference_account.dita">Account
+                            Details</xref></dt>
                     <dd>Displays the logged-in user's details and provides options to manage
                         profile, update profile image, change password, and delete account.</dd>
                 </dlentry>
                 <dlentry>
                     <dt>4. <xref href="../topics/references/reference_course_selection.dita">Course
                             Selection</xref></dt>
-                    <dd>Allows instructors to select a course, group, and task to manage. This is essential for organizing tasks by course and group.</dd>
+                    <dd>Allows instructors to select a course, group, and task to manage. This is
+                        essential for organizing tasks by course and group.</dd>
                 </dlentry>
                 <dlentry>
                     <dt>5. <xref href="../topics/references/reference_tooth_selection.dita">Tooth
                             Selection</xref></dt>
-                    <dd>Facilitates the selection of a typodont, numbering system, tooth number, scanner, and scan type for scanning tasks.</dd>
+                    <dd>Facilitates the selection of a typodont, numbering system, tooth number,
+                        scanner, and scan type for scanning tasks.</dd>
                 </dlentry>
                 <dlentry>
                     <dt>6. PrepScanner</dt>
@@ -50,7 +54,8 @@
                 </dlentry>
                 <dlentry>
                     <dt>7. <xref href="reference_scans.dita">Scans</xref></dt>
-                    <dd>Allows users to view completed scans or upload new scans for grading and analysis.</dd>
+                    <dd>Allows users to view completed scans or upload new scans for grading and
+                        analysis.</dd>
                 </dlentry>
                 <dlentry>
                     <dt>8. Grader</dt>
