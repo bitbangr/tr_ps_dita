@@ -175,6 +175,27 @@
                         </fig></li>
                 </ul></p>
         </section>
+        <section id="section_hnk_mnt_v2c">
+            <title>Prep Scan Measurement Tools</title>
+            <p>Seven measurement tools are available in the Buccal, Distal, Mesial, Occlusal and
+                Palatal preset views on selection of the Measurement button. <fig
+                    id="fig_rq2_3st_v2c">
+                    <title>Measurement Tools</title>
+                    <image placement="break"
+                        href="../images/screenshots/scans/scanned_result_measure_types.png"
+                        scale="80" id="image_sq2_3st_v2c">
+                        <alt>Measurement Tools</alt>
+                    </image>
+                </fig>These tools are:<ul id="ul_akd_24t_v2c">
+                    <li>Distance: (two measure points)</li>
+                    <li>Taper Angle (two measure points)</li>
+                    <li>Finish Line (three measure points)</li>
+                    <li>Convergence Angle (four measure points)</li>
+                    <li>Angle (three measure points)</li>
+                    <li>Parallelity (four measure points)</li>
+                    <li>Smoothness (two measure points)</li>
+                </ul></p>
+        </section>
         
         
     </refbody>
