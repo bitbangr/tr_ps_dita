@@ -26,12 +26,14 @@
                         the application.</stentry>
                 </strow>
                 <strow>
-                    <stentry>4 - Course Selection</stentry>
+                    <stentry>4 - <xref href="../topics/references/reference_course_selection.dita"
+                            >Course Selection</xref></stentry>
                     <stentry>Allows instructors to select a course, group, and task to manage. This
                         is essential for organizing tasks by course and group.</stentry>
                 </strow>
                 <strow>
-                    <stentry>5 - Tooth Selection</stentry>
+                    <stentry>5 - <xref href="../topics/references/reference_tooth_selection.dita"
+                            >Tooth Selection</xref></stentry>
                     <stentry>Facilitates the selection of a typodont, numbering system, tooth
                         number, scanner, and scan type for scanning tasks.</stentry>
                 </strow>
@@ -41,7 +43,7 @@
                         scans.</stentry>
                 </strow>
                 <strow>
-                    <stentry>7 - Scans</stentry>
+                    <stentry>7 - <xref href="reference_scans.dita">Scans</xref></stentry>
                     <stentry>Allows users to view completed scans or upload new scans for grading
                         and analysis.</stentry>
                 </strow>
