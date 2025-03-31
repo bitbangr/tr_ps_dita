@@ -15,12 +15,13 @@
                 </image>
             </fig>
         </example>
-        <section>
+        <section id="section_usw_jk5_v2c">
             <title>Overview</title>
             <p> The Tooth Selection section of the <ph keyref="product-name"/> allows users to
-                configure tooth selection parameters before proceeding with dental prep evaluation. </p>
+                configure tooth selection parameters before proceeding with dental prep evaluation.
+            </p>
         </section>
-        <section>
+        <section id="section_lz2_mk5_v2c">
             <title>Tooth Selection Process</title>
             <ul>
                 <li>
@@ -91,23 +92,23 @@
                         </fig></p>
                 </li>
                 <li>
-                    <p><b>Scanners</b>: Select the scanning device to be used.
-                    <fig id="fig_n2h_1yz_s2c">
-                        <title>PrepScanner or Intraoral Scanner Selection</title>
-                        <image placement="break"
-                            href="../../images/screenshots/tooth_selection/toothSelectionScannerType.png"
-                            scale="70" id="image_o2h_1yz_s2c">
-                            <alt>Tooth Selection: Scanners dropdown with options 'PrepScanner' and
-                                'Intraoral Scanner'.</alt>
-                        </image>
-                    </fig>
-                    <note id="note_g5b_rrv_h2c">Dental scanners are advanced imaging
-                        devices used in dentistry to capture detailed 3D digital impressions of
-                        a patient's teeth and oral structures. </note></p>
+                    <p><b>Scanners</b>: Select the scanning device to be used. <fig
+                            id="fig_n2h_1yz_s2c">
+                            <title>PrepScanner or Intraoral Scanner Selection</title>
+                            <image placement="break"
+                                href="../../images/screenshots/tooth_selection/toothSelectionScannerType.png"
+                                scale="70" id="image_o2h_1yz_s2c">
+                                <alt>Tooth Selection: Scanners dropdown with options 'PrepScanner'
+                                    and 'Intraoral Scanner'.</alt>
+                            </image>
+                        </fig>
+                        <note id="note_g5b_rrv_h2c">Dental scanners are advanced imaging devices
+                            used in dentistry to capture detailed 3D digital impressions of a
+                            patient's teeth and oral structures. </note></p>
                 </li>
                 <li>
-                <p><b>Intraoral Scanners</b>: When <b>Intraoral Scanner</b> is selected, a specific
-                        model of the intraoral scanning device must be chosen..<fig
+                    <p><b>Intraoral Scanners</b>: When <b>Intraoral Scanner</b> is selected, a
+                        specific model of the intraoral scanning device must be chosen..<fig
                             id="fig_uj5_q11_t2c">
                             <title>Intraoral Scanner Models</title>
                             <image placement="break"
@@ -165,10 +166,10 @@
                 </li>
             </ul>
         </section>
-        <section>
+        <section id="section_ocp_xk5_v2c">
             <title>Save Selection</title>
             <p> After making selections, users must confirm their choices by clicking the "Save
-                Selected Options" button.  <note id="note_rmm_cyv_h2c">This will save selected
+                Selected Options" button. <note id="note_rmm_cyv_h2c">This will save selected
                     information for the current course, group and task that is selected in the
                     Course Selection section. <fig id="fig_ftk_lyv_h2c">
                         <title>Tooth Selection Save All Info</title>
