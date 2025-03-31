@@ -2,6 +2,77 @@
 <!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
 <reference id="reference_scans">
     <title>Reference: Scans</title>
-    <shortdesc></shortdesc>
-    <refbody> </refbody>
+    <shortdesc>The scannned results dialog presents views of prep scans for specific course and
+        tooth selections.</shortdesc>
+    <refbody>
+        <section>
+            <title>Scanned Results Dialog Window</title>
+            <p> The scanned results window contains options for viewing and modifying tooth prep
+                    scans.<fig id="fig_vr1_m5r_v2c">
+                    <title>Scan Results Display by Course and Tooth Selection</title>
+                    <image placement="break"
+                        href="../images/screenshots/scans/initial_scan_view.png" scale="60"
+                        id="image_wr1_m5r_v2c">
+                        <alt>Initial View Tooth Prep Scan</alt>
+                    </image>
+                </fig></p>
+        </section>        
+        <section>
+            <title>View Tooth Prep Scans</title>
+            <p>Scanned tooth preparations are displayed via the <b>View</b> option in the SCANS
+                section, based on the selected course and tooth. <fig id="fig_pnz_jrr_v2c">
+                    <title>Tooth Prep Scan Display by Course and Tooth Selection</title>
+                    <image placement="break" href="../images/screenshots/scans/view_scans.png"
+                        scale="50" id="image_qnz_jrr_v2c"/>
+                </fig></p>
+        </section>
+        <section id="section_rwl_lhs_v2c">
+            <title>Scanned Results Menu Bar</title>
+            <p>The top menu bar provides the following scan manipulation choices<ul
+                    id="ul_hbk_rhs_v2c">
+                    <li>Transformer</li>
+                    <li>Trim</li>
+                    <li>Edge Refiner</li>
+                    <li>Tune Scan</li>
+                    <li>Reset Scan</li>
+                    <li>Delete Scan</li>
+                </ul><fig id="fig_yh3_c3s_v2c">
+                    <title>Scanned Results Menu Bar Options</title>
+                    <image placement="break"
+                        href="../images/screenshots/scans/scanned_result_top_menu_bar.png"
+                        scale="80" id="image_zh3_c3s_v2c"/>
+                </fig></p>
+        </section>
+        <section id="section_izs_hjs_v2c">
+            <title>Prep Overlay View Options</title>
+            <p>There are three possible views for , Prep only, Intact only, and Prep + Intact.<ul
+                    id="ul_czm_xjs_v2c">
+                    <li>Prep Only <fig id="fig_o2r_1ks_v2c">
+                            <title>Prep Only Overlay</title>
+                            <image placement="break"
+                                href="../images/screenshots/scans/scanned_result_prep_only.png"
+                                scale="50" id="image_p2r_1ks_v2c"><alt>Prep View of Tooth</alt></image>
+                        </fig></li>
+                    <li>Intact Only<fig id="fig_pdq_hks_v2c">
+                            <title>Intact Only</title>
+                            <image placement="break"
+                                href="../images/screenshots/scans/scanned_result_intact_only.png"
+                                scale="50" id="image_qdq_hks_v2c">
+                                <alt>Intact View of Tooth</alt>
+                            </image>
+                        </fig></li>
+                    <li>Prep + Intact<fig id="fig_ph2_lks_v2c">
+                            <title>Prep + Intact View</title>
+                            <image placement="break"
+                                href="../images/screenshots/scans/scanned_result_prep_plus_intact.png"
+                                scale="50" id="image_qh2_lks_v2c">
+                                <alt>Prep overlayed with Intact Tooth</alt>
+                            </image>
+                        </fig></li>
+                </ul></p>
+            
+        </section>
+        
+        
+    </refbody>
 </reference>

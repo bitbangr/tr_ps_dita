@@ -4,13 +4,15 @@
     <title>Compare Preps Using Overlay Features</title>
     <body>
         <p></p>
-        <p>This is an image <fig id="fig_chj_fdq_sdc">
+        <p>Compare two scanned tooth preps by using thee overlay feature.  Position the purple line
+            between Prep and Intact.<fig id="fig_chj_fdq_sdc">
                 <title>Tooth Prep</title>
                 <image href="../images/screenshots/scans/scanned_result_3d_rotation.png"
                     id="image_dhj_fdq_sdc">
                     <alt>Tooth Prep Image</alt>
                 </image>
             </fig></p>
-        <p>This is a scanned tooth.</p>
+        <p>This image shows a tooth prep overlayed with an intact tooth.  Using mouse you can zoom,
+            rotate, and pan the image of the tooth to see different views of both.</p>
     </body>
 </topic>
