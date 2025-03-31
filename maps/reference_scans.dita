@@ -5,10 +5,10 @@
     <shortdesc>The scannned results dialog presents views of prep scans for specific course and
         tooth selections.</shortdesc>
     <refbody>
-        <section>
+        <section id="section_vfn_s25_v2c">
             <title>Scanned Results Dialog Window</title>
-            <p> The scanned results window contains options for viewing and modifying tooth prep
-                    scans.<fig id="fig_vr1_m5r_v2c">
+            <p>The scanned results window contains options for viewing and modifying tooth prep
+                scans.<fig id="fig_vr1_m5r_v2c">
                     <title>Scan Results Display by Course and Tooth Selection</title>
                     <image placement="break"
                         href="../images/screenshots/scans/initial_scan_view.png" scale="60"
@@ -16,16 +16,18 @@
                         <alt>Initial View Tooth Prep Scan</alt>
                     </image>
                 </fig></p>
-        </section>        
-        <section>
+        </section>
+        
+        <section id="section_kqn_j25_v2c">
             <title>View Tooth Prep Scans</title>
             <p>Scanned tooth preparations are displayed via the <b>View</b> option in the main app
-                SCANS section, based on the selected course and tooth. <fig id="fig_pnz_jrr_v2c">
-                    <title>Tooth Prep Scan Display by Course and Tooth Selection</title>
-                    <image placement="break" href="../images/screenshots/scans/view_scans.png"
-                        scale="50" id="image_qnz_jrr_v2c"/>
-                </fig></p>
+            SCANS section, based on the selected course and tooth. <fig id="fig_pnz_jrr_v2c">
+                <title>Tooth Prep Scan Display by Course and Tooth Selection</title>
+                <image placement="break" href="../images/screenshots/scans/view_scans.png"
+                    scale="50" id="image_qnz_jrr_v2c"/>
+            </fig></p>
         </section>
+        
         <section id="section_rwl_lhs_v2c">
             <title>Scanned Results Menu Bar</title>
             <p>The top menu bar provides the following scan manipulation choices<ul
@@ -177,9 +179,10 @@
         </section>
         <section id="section_hnk_mnt_v2c">
             <title>Prep Scan Measurement Tools</title>
-            <p>Seven measurement tools are available in the Buccal, Distal, Mesial, Occlusal and
-                Palatal preset views on selection of the Measurement button. <fig
-                    id="fig_rq2_3st_v2c">
+            <p>Seven measurement tools are available when using the <b>Buccal</b>, <b>Distal</b>,
+                    <b>Mesial</b>, <b>Occlusal</b>, and <b>Palatal</b> preset views. These tools
+                become accessible upon activating the <b>Measure</b> toggle. Current measurements
+                are cleared with the Clear Measurement <b>X</b> button. <fig id="fig_rq2_3st_v2c">
                     <title>Measurement Tools</title>
                     <image placement="break"
                         href="../images/screenshots/scans/scanned_result_measure_types.png"
@@ -187,13 +190,20 @@
                         <alt>Measurement Tools</alt>
                     </image>
                 </fig>These tools are:<ul id="ul_akd_24t_v2c">
-                    <li>Distance: (two measure points)</li>
-                    <li>Taper Angle (two measure points)</li>
-                    <li>Finish Line (three measure points)</li>
-                    <li>Convergence Angle (four measure points)</li>
-                    <li>Angle (three measure points)</li>
-                    <li>Parallelity (four measure points)</li>
-                    <li>Smoothness (two measure points)</li>
+                    <li>Distance – two measurement points<fig id="fig_umq_pd5_v2c">
+                            <title>Distance Measure Tool</title>
+                            <image placement="break"
+                                href="../images/screenshots/scans/scanned_result_measure_distance.png"
+                                scale="50" id="image_vmq_pd5_v2c">
+                                <alt>Distance Measure Tool</alt>
+                            </image>
+                        </fig></li>
+                    <li>Taper Angle – two measurement points</li>
+                    <li>Finish Line – three measurement points</li>
+                    <li>Convergence Angle – four measurement points</li>
+                    <li>Angle – three measurement points</li>
+                    <li>Parallelity – four measurement points</li>
+                    <li>Smoothness – two measurement points</li>
                 </ul></p>
         </section>
         
