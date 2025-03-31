@@ -4,7 +4,7 @@ This repository contains OxygenXML-authored DITA topic files that form the found
 
 ## 🧰 About the Project
 
-The DT PrepScanner is a dental training tool that enables instructors to assess Class II cavity preparation submissions using a structured rubric and AI-enhanced features. This guide was developed to support educators, new users, and collaborative grading teams in mastering the app.
+The DT PrepScanner is a dental training tool that enables instructors to assess dental preparation submissions using a structured rubric and AI-enhanced features. This guide was developed to support educators, students, new users, and collaborative grading teams in mastering the app.
 
 ## 📚 Key Features of the Help Guide
 
@@ -16,6 +16,7 @@ The DT PrepScanner is a dental training tool that enables instructors to assess 
 ## 👥 Audience
 
 - Dental Instructors & Educators
+- Dental Students
 - New Users of the PrepScanner App
 - Dental Faculty Teams
 - Administrative Support Staff
