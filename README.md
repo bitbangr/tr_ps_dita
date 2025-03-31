@@ -2,6 +2,8 @@
 
 This repository contains OxygenXML-authored DITA topic files that form the foundation of the **DT PrepScanner Online Help Guide** — a structured and comprehensive help system for dental educators using the PrepScanner app.
 
+See https://bitbangr.github.io/tr_ps_webhelp/index.html for latest published online help guide.
+
 ## 🧰 About the Project
 
 The DT PrepScanner is a dental training tool that enables instructors to assess dental preparation submissions using a structured rubric and AI-enhanced features. This guide was developed to support educators, students, new users, and collaborative grading teams in mastering the app.
@@ -47,5 +49,3 @@ Prepared by **Marcus J.**, ClearText Communications
 ---
 
 > *This repository supports the educational mission of Tactile Robotics Inc. and the continuous development of digital tools in dental training.*
-
-See https://bitbangr.github.io/tr_ps_webhelp/index.html for latest output 
