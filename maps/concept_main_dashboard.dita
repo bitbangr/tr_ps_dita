@@ -49,7 +49,7 @@
                     <dd>Enables connection to the scanning device for performing scans.</dd>
                 </dlentry>
                 <dlentry>
-                    <dt>7. Scans</dt>
+                    <dt>7. <xref href="reference_scans.dita">Scans</xref></dt>
                     <dd>Allows users to view completed scans or upload new scans for grading and analysis.</dd>
                 </dlentry>
                 <dlentry>
