@@ -208,16 +208,30 @@
                         </fig></li>
                     <li>Finish Line – three measurement points</li>
                     <li>Convergence Angle – four measurement points</li>
-                    <li>Angle – three measurement points</li>
+                    <li>Angle – three measurement points<fig id="fig_dzg_zq5_v2c">
+                            <title>Angle Measure Tool</title>
+                            <image placement="break"
+                                href="../images/screenshots/scans/scanned_result_measure_angle.png"
+                                scale="50" id="image_ezg_zq5_v2c">
+                                <alt>Angle Measure Tool</alt>
+                            </image>
+                        </fig></li>
                     <li>Parallelity – four measurement points<fig id="fig_nv2_2j5_v2c">
-                            <title>Parallility Measure Tool</title>
+                            <title>Parallelity Measure Tool</title>
                             <image placement="break"
                                 href="../images/screenshots/scans/scanned_result_measure_parallelity.png"
                                 scale="50" id="image_ov2_2j5_v2c">
                                 <alt>Parallility Measure Tool</alt>
                             </image>
                         </fig></li>
-                    <li>Smoothness – two measurement points</li>
+                    <li>Smoothness – two measurement points<fig id="fig_ecg_vp5_v2c">
+                            <title>Smoothness Measure Tool</title>
+                            <image placement="break"
+                                href="../images/screenshots/scans/scanned_result_measure_smoothness.png"
+                                scale="50" id="image_fcg_vp5_v2c">
+                                <alt>Smoothness Measure Tool</alt>
+                            </image>
+                        </fig></li>
                 </ul></p>
         </section>
         
