@@ -41,7 +41,7 @@ Developed using [Oxygen XML Editor](https://www.oxygenxml.com/#bidx-xml-editor).
 
 ## 📬 Feedback & Contact
 
-Prepared by **Mark Johnston**, ClearText Communications  
+Prepared by **Marcus J.**, ClearText Communications  
 📧 mgj000@hotmail.com
 
 ---
