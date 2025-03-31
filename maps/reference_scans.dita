@@ -94,6 +94,87 @@
                     </image>
                 </fig></p>
         </section>
+        <section id="section_k1p_drs_v2c">
+            <title>3D Scan Rotation Controls</title>
+            <p>The orientation of the 3D tooth prep model can be changed using mouse-based controls
+                within the SCANNED RESULT window.</p>
+            <p><b>Controls:</b><ul>
+                    <li><b>Right-click + drag</b>: Rotates the scan in 3D space.</li>
+                    <li><b>Crosshair movement</b>: Adjusts the axis of rotation based on pointer
+                        position.</li>
+                    <li><b>Dynamic orientation</b>: The model updates in real time as the crosshair
+                        is repositioned.<p>
+                            <fig id="fig_rhh_hss_v2c">
+                                <title>3D Scan Rotation Controls</title>
+                                <image placement="break"
+                                    href="../images/screenshots/scans/scanned_result_3d_rotation.png"
+                                    scale="80" id="image_shh_hss_v2c">
+                                    <alt>3D Scan Rotation Controls</alt>
+                                </image>
+                            </fig>
+                        </p></li>
+            </ul></p>
+        </section>
+        <section id="section_gx1_qts_v2c">
+            <title>Preset View Angles</title>
+            <p>Six preset views show the tooth preparation from different fixed anatomical angles.
+                Each view is described below.<ul>
+                    <li><b>3D</b>: A free-rotating, interactive view of the entire tooth preparation
+                        from any angle.<fig id="fig_xkn_mvs_v2c">
+                            <title>3D Preset View Angle</title>
+                            <image placement="break"
+                                href="../images/screenshots/scans/scanned_result_preset_view_angles.png"
+                                scale="80" id="image_ykn_mvs_v2c">
+                                <alt>3D Preset View Angle</alt>
+                            </image>
+                        </fig></li>
+                    <li><b>Buccal</b>: Displays the tooth from the outer (cheek-facing) surface.<fig
+                            id="fig_c42_jws_v2c">
+                            <title>Buccal Preset View Angle</title>
+                            <image placement="break"
+                                href="../images/screenshots/scans/scanned_result_buccal_view.png"
+                                scale="80" id="image_d42_jws_v2c">
+                                <alt>Buccal Preset View Angle</alt>
+                            </image>
+                        </fig></li>
+                    <li><b>Distal</b>: Shows the surface of the tooth farthest from the midline of
+                        the dental arch.<fig id="fig_bbr_pws_v2c">
+                            <title>Distal Preset View Angle</title>
+                            <image placement="break"
+                                href="../images/screenshots/scans/scanned_result_distal_view.png"
+                                scale="80" id="image_cbr_pws_v2c">
+                                <alt>Distal Preset View Angle</alt>
+                            </image>
+                        </fig></li>
+                    <li><b>Mesial</b>: Shows the surface closest to the midline of the dental
+                            arch.<fig id="fig_pjs_fxs_v2c">
+                            <title>Mesial Preset View Angle</title>
+                            <image placement="break"
+                                href="../images/screenshots/scans/scanned_result_mesial_view.png"
+                                scale="80" id="image_qjs_fxs_v2c">
+                                <alt>Mesial Preset View Angle</alt>
+                            </image>
+                        </fig></li>
+                    <li><b>Occlusal</b>: Displays the biting surface of the tooth, ideal for
+                        assessing prep depth and outline.<fig id="fig_tsf_lxs_v2c">
+                            <title>Occlusal Preset View Angle</title>
+                            <image placement="break"
+                                href="../images/screenshots/scans/scanned_result_occlusal_view.png"
+                                scale="80" id="image_usf_lxs_v2c">
+                                <alt>Occlusal Preset View Angle</alt>
+                            </image>
+                        </fig></li>
+                    <li><b>Palatal</b> (or <b>Lingual</b> for mandibular teeth): Shows the inner
+                        surface of the tooth facing the palate or tongue.<fig id="fig_vtd_rxs_v2c">
+                            <title>Palatal Preset View Angle</title>
+                            <image placement="break"
+                                href="../images/screenshots/scans/scanned_result_palatal_view.png"
+                                scale="80" id="image_wtd_rxs_v2c">
+                                <alt>Palatal Preset View Angle</alt>
+                            </image>
+                        </fig></li>
+                </ul></p>
+        </section>
         
         
     </refbody>
