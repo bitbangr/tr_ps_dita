@@ -16,14 +16,14 @@
                 </image>
             </fig>
         </example>
-        <section>
+        <section id="section_ig1_zl5_v2c">
             <title>Overview</title>
             <p> The Course Selection section of the <ph keyref="product-name"/> allows users to
                 select a course, assign groups, and choose specific tasks within the selected
                 course. </p>
         </section>
-        <section>
-            <title>Course Selection Process</title>
+        <section id="section_ehs_3m5_v2c">
+            <title id="title_h4j_zl5_v2c">Course Selection Process</title>
             <ul>
                 <li>
                     <p>Select course: Choose the relevant course from the available list.<fig
@@ -36,7 +36,6 @@
                                     Prostho' selected</alt>
                             </image>
                         </fig></p>
-                    
                 </li>
                 <li>
                     <p>Select group: Assign or choose the appropriate group within the selected
@@ -63,8 +62,8 @@
                 </li>
             </ul>
         </section>
-        <section>
-            <title>Additional Course Operations</title>
+        <section id="section_h4c_lm5_v2c">
+            <title id="title_ukz_zl5_v2c">Additional Course Operations</title>
             <dl>
                 <dlentry>
                     <dt>Edit Course Details</dt>
@@ -99,15 +98,16 @@
                             <image placement="break"
                                 href="../../images/screenshots/course_selection/course_selection_delete_task.png"
                                 scale="70" id="image_hx3_jpz_s2c">
-                                <alt>Course Edit page with options to configure, rename, and set dates.
-                                    A red delete button is highlighted for course deletion.</alt>
+                                <alt>Course Edit page with options to configure, rename, and set
+                                    dates. A red delete button is highlighted for course
+                                    deletion.</alt>
                             </image>
                         </fig></dd>
                 </dlentry>
                 <dlentry>
                     <dt>Clear Course Selections and Tooth Selections</dt>
                     <dd>Reset the selected course, group, task, and tooth choices.</dd>
-                </dlentry>              
+                </dlentry>
             </dl>
         </section>
     </refbody>
