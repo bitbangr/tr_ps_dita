@@ -166,8 +166,9 @@
                                 <alt>Occlusal Preset View Angle</alt>
                             </image>
                         </fig></li>
-                    <li><b>Palatal</b> (or <b>Lingual</b> for mandibular teeth): Shows the inner
-                        surface of the tooth facing the palate or tongue.<fig id="fig_vtd_rxs_v2c">
+                    <li><b>Palatal</b> (or <b>Lingual</b> for mandibular, i.e., lower, teeth): Shows
+                        the inner surface of the tooth facing the palate (upper teeth) or tongue
+                        (lower teeth).<fig id="fig_vtd_rxs_v2c">
                             <title>Palatal Preset View Angle</title>
                             <image placement="break"
                                 href="../images/screenshots/scans/scanned_result_palatal_view.png"
@@ -206,8 +207,25 @@
                                 <alt>Taper Angle Measure Tool</alt>
                             </image>
                         </fig></li>
-                    <li>Finish Line – three measurement points</li>
-                    <li>Convergence Angle – four measurement points</li>
+                    <li>Finish Line – three measurement points. The <b>finish line</b> is the
+                        boundary where the tooth preparation ends and the uncut tooth begins.
+                            <b>Free Gingival Margin (FGM)</b> is the natural edge of the gum tissue
+                        around the tooth.<fig id="fig_xmx_3w5_v2c">
+                            <title>Finish Line Measure Tool</title>
+                            <image placement="break"
+                                href="../images/screenshots/scans/scanned_result_measure_finish_line.png"
+                                scale="50" id="image_ymx_3w5_v2c">
+                                <alt>Finish Line Measure Tool</alt>
+                            </image>
+                        </fig></li>
+                    <li>Convergence Angle – four measurement points<fig id="fig_x45_ly5_v2c">
+                            <title>Convergence Angle Measure Tool</title>
+                            <image placement="break"
+                                href="../images/screenshots/scans/scanned_result_measure_convergence.png"
+                                scale="50" id="image_y45_ly5_v2c">
+                                <alt>Convergence Measure Tool</alt>
+                            </image>
+                        </fig></li>
                     <li>Angle – three measurement points<fig id="fig_dzg_zq5_v2c">
                             <title>Angle Measure Tool</title>
                             <image placement="break"
