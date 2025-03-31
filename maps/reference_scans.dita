@@ -181,8 +181,8 @@
             <title>Prep Scan Measurement Tools</title>
             <p>Seven measurement tools are available when using the <b>Buccal</b>, <b>Distal</b>,
                     <b>Mesial</b>, <b>Occlusal</b>, and <b>Palatal</b> preset views. These tools
-                become accessible upon activating the <b>Measure</b> toggle. Current measurements
-                are cleared with the Clear Measurement <b>X</b> button. <fig id="fig_rq2_3st_v2c">
+                become accessible upon activating the <b>Measure</b> toggle. Clear all active
+                measurements with the <b>X</b> button. <fig id="fig_rq2_3st_v2c">
                     <title>Measurement Tools</title>
                     <image placement="break"
                         href="../images/screenshots/scans/scanned_result_measure_types.png"
@@ -190,7 +190,7 @@
                         <alt>Measurement Tools</alt>
                     </image>
                 </fig>These tools are:<ul id="ul_akd_24t_v2c">
-                    <li>Distance – two measurement points<fig id="fig_umq_pd5_v2c">
+                    <li>Distance – two measurement points. <fig id="fig_umq_pd5_v2c">
                             <title>Distance Measure Tool</title>
                             <image placement="break"
                                 href="../images/screenshots/scans/scanned_result_measure_distance.png"
@@ -198,11 +198,25 @@
                                 <alt>Distance Measure Tool</alt>
                             </image>
                         </fig></li>
-                    <li>Taper Angle – two measurement points</li>
+                    <li>Taper Angle – two measurement points<fig id="fig_omn_mh5_v2c">
+                            <title>Taper Angle Measure Tool</title>
+                            <image placement="break"
+                                href="../images/screenshots/scans/scanned_result_measure_taper_angle.png"
+                                scale="50" id="image_pmn_mh5_v2c">
+                                <alt>Taper Angle Measure Tool</alt>
+                            </image>
+                        </fig></li>
                     <li>Finish Line – three measurement points</li>
                     <li>Convergence Angle – four measurement points</li>
                     <li>Angle – three measurement points</li>
-                    <li>Parallelity – four measurement points</li>
+                    <li>Parallelity – four measurement points<fig id="fig_nv2_2j5_v2c">
+                            <title>Parallility Measure Tool</title>
+                            <image placement="break"
+                                href="../images/screenshots/scans/scanned_result_measure_parallelity.png"
+                                scale="50" id="image_ov2_2j5_v2c">
+                                <alt>Parallility Measure Tool</alt>
+                            </image>
+                        </fig></li>
                     <li>Smoothness – two measurement points</li>
                 </ul></p>
         </section>
