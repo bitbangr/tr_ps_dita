@@ -45,27 +45,31 @@
         </section>
         <section id="section_izs_hjs_v2c">
             <title>Prep Overlay View Options</title>
-            <p>There are three possible views for , Prep only, Intact only, and Prep + Intact.<ul
-                    id="ul_czm_xjs_v2c">
-                    <li>Prep Only <fig id="fig_o2r_1ks_v2c">
+            <p>Three overlay views are available:<ul id="ul_czm_xjs_v2c">
+                    <li><b>Prep Only</b>: Displays only the prepared tooth structure.<fig
+                            id="fig_o2r_1ks_v2c">
                             <title>Prep Only Overlay</title>
                             <image placement="break"
                                 href="../images/screenshots/scans/scanned_result_prep_only.png"
-                                scale="50" id="image_p2r_1ks_v2c"><alt>Prep View of Tooth</alt></image>
+                                scale="80" id="image_p2r_1ks_v2c">
+                                <alt>Prep View of Tooth</alt>
+                            </image>
                         </fig></li>
-                    <li>Intact Only<fig id="fig_pdq_hks_v2c">
+                    <li><b>Intact Only</b>: Displays only the unprepared (intact) tooth anatomy.<fig
+                            id="fig_pdq_hks_v2c">
                             <title>Intact Only</title>
                             <image placement="break"
                                 href="../images/screenshots/scans/scanned_result_intact_only.png"
-                                scale="50" id="image_qdq_hks_v2c">
+                                scale="80" id="image_qdq_hks_v2c">
                                 <alt>Intact View of Tooth</alt>
                             </image>
                         </fig></li>
-                    <li>Prep + Intact<fig id="fig_ph2_lks_v2c">
+                    <li><b>Prep + Intact</b>: Displays both the prepared and intact structures in an
+                        overlaid view for comparison.<fig id="fig_ph2_lks_v2c">
                             <title>Prep + Intact View</title>
                             <image placement="break"
                                 href="../images/screenshots/scans/scanned_result_prep_plus_intact.png"
-                                scale="50" id="image_qh2_lks_v2c">
+                                scale="80" id="image_qh2_lks_v2c">
                                 <alt>Prep overlayed with Intact Tooth</alt>
                             </image>
                         </fig></li>
