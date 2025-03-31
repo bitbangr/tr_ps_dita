@@ -21,7 +21,8 @@
                         window.</stentry>
                 </strow>
                 <strow>
-                    <stentry>3 - Account and Logout</stentry>
+                    <stentry>3 - <xref href="../topics/references/reference_account.dita">Account
+                            Details and Logout</xref></stentry>
                     <stentry>Displays the logged-in user's name and offers the option to log out of
                         the application.</stentry>
                 </strow>
