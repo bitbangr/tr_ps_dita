@@ -19,8 +19,8 @@
         </section>        
         <section>
             <title>View Tooth Prep Scans</title>
-            <p>Scanned tooth preparations are displayed via the <b>View</b> option in the SCANS
-                section, based on the selected course and tooth. <fig id="fig_pnz_jrr_v2c">
+            <p>Scanned tooth preparations are displayed via the <b>View</b> option in the main app
+                SCANS section, based on the selected course and tooth. <fig id="fig_pnz_jrr_v2c">
                     <title>Tooth Prep Scan Display by Course and Tooth Selection</title>
                     <image placement="break" href="../images/screenshots/scans/view_scans.png"
                         scale="50" id="image_qnz_jrr_v2c"/>
@@ -75,6 +75,24 @@
                         </fig></li>
                 </ul></p>
             
+        </section>
+        <section id="section_uys_cns_v2c">
+            <title>Prep View Window Controls</title>
+            <p>Viewing the tooth prep display can be adapted with window controls.<ul
+                    id="ul_xbl_jns_v2c">
+                    <li>Zoom In</li>
+                    <li>Zoom Out</li>
+                    <li>Reset View</li>
+                    <li>Save View to Disk</li>
+                    <li>Show/Hide Prep</li>
+                </ul><fig id="fig_eb5_vns_v2c">
+                    <title>Tooth Prep Display Controls</title>
+                    <image placement="break"
+                        href="../images/screenshots/scans/scanned_result_controls.png" scale="80"
+                        id="image_fb5_vns_v2c">
+                        <alt>Tooth Prep View Controls</alt>
+                    </image>
+                </fig></p>
         </section>
         
         
